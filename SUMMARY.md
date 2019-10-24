@@ -8,8 +8,10 @@
     * [October 2019](looking-back/2019/october-2019.md)
 * [Trello](trello.md)
 
-## Programming Language <a id="programming_language"></a>
+## Programming
 
-* [Programming Language](programming_language/programming_language/README.md)
-  * [C++](programming_language/programming_language/c++.md)
+* [Computer Science](programming/computer-science.md)
+* [Programming](programming/programming.md)
+* [Programming Language](programming/programming_language/README.md)
+  * [C++](programming/programming_language/c++.md)
 
