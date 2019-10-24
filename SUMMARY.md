@@ -4,6 +4,7 @@
 
 ## Programming Language <a id="programming_language"></a>
 
-* [programming\_language](programming_language/programming_language.md)
 * [C++](programming_language/c++.md)
+* [Programming Language](programming_language/programming_language/README.md)
+  * [C++](programming_language/programming_language/c++.md)
 
