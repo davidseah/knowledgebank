@@ -1,4 +1,4 @@
 # 2019
 
-{% page-ref page="./" %}
+{% page-ref page="october-2019.md" %}
 
