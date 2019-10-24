@@ -6,13 +6,13 @@ description: >-
 
 # Philosophy
 
-### Contribute to the open source community
+## Contribute to the open source community
 
 When you contribute to the open source community, it will empower you, Tejada said. "When you contribute to a project, pay attention to the feedback you get from users and other developers," he added. "When you give to the community, make sure you take advantage of the opportunity to receive as well."
 
 Recognize how important it is to interact with your professional community, but also think long and hard about what you want your role to be, said Charlie Robbins, director of engineering at GoDaddy and former member of the board of the Node.js Foundation. "Rather than chasing the notoriety of a 'superstar' developer, make sure you're speaking at conferences, writing blog posts, and engaging in mentorship projects that you actually feel passionate about," Robbins said. "Exchanging ideas and learning new things from your community can help avoid burnout, but only if you're approaching it in a genuine way."
 
-### Code the real world, and code frequently
+## Code the real world, and code frequently
 
 "There is no replacement for coding solutions to real world problems and the practice that comes from these experiences," said Willie Tejada, chief developer advocate at IBM. "What you code isn't as important as coding as frequently as possible and challenging yourself."
 
@@ -22,25 +22,25 @@ You can use GitHub to publicly display passing projects or exercises, and have o
 
 "Programmers that are on the hunt for a new job must showcase the projects they have worked on," said Manu Singh, a mobile developer at Clearbridge Mobile. "This sets you aside from the competition and shows not only what projects you've worked on, but a deeper look at who you are, how you completed the work, and where you want to go. By putting together a portfolio of your work, you're building your personal brand."
 
-### Work on a side project
+## Work on a side project
 
 A side project may sound daunting, but you should consider starting one just for fun, Mazzina said. "Programming something you're passionate about is crucial to development, and by taking on a side project with no expectations other than to have fun and learn, you'll be surprised at how much you can grow," Mazzina said. "Try learning a new programming language, or build an app to sharpen your skills and broaden your ability."
 
 GitHub is also full of projects both large and small that welcome contributions, said Cynan de Leon, head of data engineering and analytics for Mint at Intuit. "This is a great place to see if someone has already started creating your idea, and see what ways it can be improved," de Leon said. "You also get the benefit of having other people look at what you've contributed, continuing that cycle. It could be something as small as a Sudoku solver, or something as huge as a top-level Apache project. It doesn't matter; if you're passionate about it, go for it."
 
-### Develop a specialty
+## Develop a specialty
 
 Programming changes very quickly—often, you learn one technology, and by the next week, it's been replaced with something better, said Alex Markov, developer and founder of Refersion. "My advice is to specialize by focusing on a smaller segment of tech, such as database admin, front-end web development, etc.—then keep up with that industry, learn everything, be the best. That's how you'll win at your career," Markov said. "Employers will respect you more when you say, 'I don't know about the other stuff, but when it comes to XYZ, I got your back all the time.'"
 
 If you're struggling to choose a language to begin with, you should pick one and learn it well, Vassallo said. "While we all need to pick up various languages on the path to becoming a programming guru, it pays to really try and shine in one field," Vassallo said. "It's totally fine to be a jack of all trades, in fact, it's welcomed. A master of none has a less than desirable skill set."
 
-### Your success is determine by the seeds you planted than by the harvest you get
+## Your success is determine by the seeds you planted than by the harvest you get
 
-### Give a shit about what you work on
+## Give a shit about what you work on
 
-### Don't give a shit what others think
+## Don't give a shit what others think
 
-### Invest at Least 10 Percent of Your Income in Yourself
+## Invest at Least 10 Percent of Your Income in Yourself
 
 If you don't pay for something, you rarely pay attention.
 
@@ -80,7 +80,7 @@ Who you are determines:
 
 the quality of marriage you'll have the quality of parent you'll become the quality of work you'll produce the level of happiness you'll have.
 
-### Invest at Least 80 Percent of Your "Off" Time Into Learning
+## Invest at Least 80 Percent of Your "Off" Time Into Learning
 
 Most people are consumers rather than creators.
 
@@ -98,7 +98,7 @@ The world's most successful people are intense learners. They are hard readers. 
 
 If you are constantly consuming junk media, how can you possibly expect to create high-value work? Your input directly translates to your output. Garbage in, garbage out.
 
-### Don't Work for Money, Work to Learn
+## Don't Work for Money, Work to Learn
 
 "When you are young, work to learn, not to earn." -- Robert Kiyosaki
 
@@ -114,7 +114,7 @@ When you prioritize learning and recovery, then you'll be in a deep flow state d
 
 Your time is spent well because your priorities are clear, you're well-rested, and your mind is stimulated.
 
-### Don't Learn for Entertainment, Learn to Create More Value
+## Don't Learn for Entertainment, Learn to Create More Value
 
 "The key secret to success is not excessive expertise, but the ability to use it. Knowledge is worthless unless it is applied." -- Max Lukominskyi
 
@@ -132,7 +132,7 @@ Unless you understand the value of your time, you probably won't have the discer
 
 When you learn something, you should get a return on that learning. Far too many people read books now just to say they've read lots of books. If you're not applying what you're learning, your consuming and wasting your time.
 
-### Be Lazy, But Not Intellectually Lazy
+## Be Lazy, But Not Intellectually Lazy
 
 A while ago, Jeff Atwood wrote about the merits of laziness for successful software developers. 
 
