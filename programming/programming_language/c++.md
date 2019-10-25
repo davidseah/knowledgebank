@@ -25,3 +25,7 @@
 
 * [This Pointer](https://thispointer.com/c11-tutorial/)
 
+#### Libraries
+
+* [A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things](https://cpp.libhunt.com/)
+
