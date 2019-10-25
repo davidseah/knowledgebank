@@ -16,6 +16,7 @@
 * [cppreference](https://en.cppreference.com/w/)
 * [cplusplus](http://www.cplusplus.com/)
 * [google cpp guideline](https://google.github.io/styleguide/cppguide.html) 
+* [C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 
 
 
