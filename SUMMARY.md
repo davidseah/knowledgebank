@@ -11,7 +11,8 @@
 
 ## Programming
 
-* [Computer Science](programming/computer-science.md)
+* [Computer Science](programming/computer-science/README.md)
+  * [Design Pattern](programming/computer-science/design-pattern.md)
 * [Programming](programming/programming.md)
 * [Programming Language](programming/programming_language/README.md)
   * [javascript](programming/programming_language/javascript.md)
