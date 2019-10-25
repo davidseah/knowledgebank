@@ -1,8 +1,10 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Philosophy](mental-model.md)
+* [Life](life.md)
+* [Principles](mental-model.md)
 * [Blogs](blogs.md)
+* [Books](books.md)
 * [Trello](trello.md)
 * [Github](github.md)
 * [Looking Back](looking-back/README.md)
@@ -12,6 +14,7 @@
 ## Programming
 
 * [Computer Science](programming/computer-science/README.md)
+  * [Algorithm](programming/computer-science/algorithm.md)
   * [Design Pattern](programming/computer-science/design-pattern.md)
 * [Programming](programming/programming.md)
 * [Programming Language](programming/programming_language/README.md)

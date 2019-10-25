@@ -10,9 +10,14 @@ description: A list of blogs that I read regular
 
 
 
+## Life
+
+* [Steph Smith](https://blog.stephsmith.io/)
+* [Mark Manson](https://markmanson.net/archive)
+
+## Tech
 
 
-Pro
 
 
 

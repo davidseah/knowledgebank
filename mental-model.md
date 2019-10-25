@@ -4,7 +4,7 @@ description: >-
   apply it to my life.
 ---
 
-# Philosophy
+# Principles
 
 ## Contribute to the open source community
 
@@ -154,9 +154,211 @@ Likewise, spend time getting up to speed on the framework you are using. For exa
 
 And if you are going to write your own, consider buying a package first such as Peter Blum’s validation package. So once again, be lazy, but not mentally lazy. Write unit tests up front where they make sense. Learn the framework you are using. Understand the code you are writing or debugging. And in the long run, you’ll be making your life \(and your coworkers lives\) easier. Perhaps that’s the true laziness.
 
+## Invest at Least 10 Percent of Your Income Into Vehicles That Will Generate More Money
 
+Very few people create true wealth.
 
+Even those who have high incomes are not truly wealthy. Most people's lifestyles match their incomes. When they make more, they consume more. In fact, most people make money solely to consume.
 
+Very few people make money to invest that money.
+
+It's best to think of your business as only half of your income equation. You have your business which brings income. Then, you have your investment entity to turn your income into even more money.
+
+Like anything, how well you manage your money is determined by how well mentored you are. If you want to become brilliant with money, invest in education and mentoring.
+
+The best time to plant a tree was 20 years ago. The best time to start investing was also in the past. If you haven't started yet, don't sit and wallow in regret. Tomorrow doesn't exist for people who don't do something today.
+
+Start today. Get yourself educated. Create a vehicle, or several vehicles, where you put at least 10 percent of your income. Eventually, your investment vehicle may even start producing more profits for you than your actual business.
+
+Compound interest is a real thing. If you put 10 percent of your income into your investments over a long enough period of time, you'll be set. Unlike the majority of high earners out there, you'll be able to stop working whenever you want, because your money is making more than enough for you to comfortably live on.
+
+## Shift Your Motivation From Getting to Giving
+
+"The world gives to the givers and takes from the takers." -- Joe Polish
+
+Most people are only focused on what they can get out of life.
+
+Me, me, me.
+
+However, once you become more consciously awake to the world, your desire will shift from merely receiving to giving.
+
+You'll realize that it's actually far more satisfying to give than to get. Moreover, you'll be driven by a cause you fully believe in.
+
+When your motivation is to give, you'll often get insights about how you can improve your relationships. Random thoughts will pop into you head to send "Thank you" notes to various people.
+
+You'll have more ideas about how you can improve other people's lives and businesses.
+
+You'll start contributing more, which will lead to far more opportunities and deeper relationships. People will come to love and trust you. Your work will be motivated by a higher cause, and thus will be far more inspired and impactful.
+
+## Openly Acknowledge How Dependent You Are on Other People
+
+Just because your primary motivation is to give doesn't mean you don't also seek a lot of help.
+
+Actually, you are constantly seeking and receiving help.
+
+The truth is, everyone is highly dependent on other people to do what they do. But it takes wisdom and humility to openly acknowledge that dependence. Rather than seeing it as a weakness, realize that it's a strength.
+
+Beyond acknowledging your dependence, constantly express your appreciation to the people in your life. That which you appreciate, appreciates. Relationships are assets that can and should grow bigger and better over time.
+
+If you don't appreciate and give to your relationships, your relationships will suffer. All relationships are like bank accounts, and if one person is constantly depositing and the other person is constantly withdrawing, eventually all of the resources become depleted.
+
+In such relationships, 1+1 = less than 2.
+
+Conversely, in synergistic and healthy relationships, 1+1 = far more than 2. When two people are continually giving and receiving, the relational bank account continues to grow and expand, providing several intended and unintended benefits.
+
+For example, I was recently at the gym with my brother. At the beginning of the workout, he was struggling mentally. He wasn't adding to my energy and helping my workout become better than if I was alone. Instead, he was sucking my energy and causing me to exert more energy and effort than if I was alone.
+
+I made him aware of what was happening, and he immediately shifted his emotional posture. He realized how dramatically his mood was affecting me. His motivation shifted from consuming an experience to creating something great.
+
+Our shared mental state heightened, taking us into group flow. Our workout become far superior to anything I could create on my own. Not only that, but we began to engage in inspired conversation. This led to brilliant insights and connections that were relevant to the book I'm writing.
+
+The amazing workout was the intended outcome of our synergy. The insights for my book were unintended benefits. This can only happen when both parties are actively giving and receiving from the relationship. Where both are focusing on creating rather than consuming. Where both have the primary motivation of helping the other person succeed.
+
+## Create Win-Win Strategic Partnerships to Achieve 10X or 100X Goals
+
+"All failed companies are the same: They failed to escape competition." -- Peter Thiel
+
+Most people are in a state of competition rather than collaboration.
+
+Collaboration is a much higher level than competition.
+
+Competition is focused on the self. It's also very low-level thinking, because what you can do on your own is very limited.
+
+People who are competing are grinding. They're more focused on winning than creating real solutions.
+
+However, when your thinking becomes expanded, you realize you could do so much more with other people. Collaboration creates unique connections working by yourself never could.
+
+You have skills and knowledge that are awesome in your field. There are other people in different fields who have skills and knowledge completely outside of your current awareness. These people also have assets you don't have.
+
+If you want to get 10X or 100X the results of other people in your field, you need to develop strategic "win-win" partnerships. This generally happens when you devise a plan where your skill sets and assets merge with the skill sets and assets of someone else.
+
+What you can do well, someone else may struggle with. What you struggle with, others can do extremely well.
+
+Who can you partner with that could speed your process?
+
+Who has assets and resources you don't?
+
+How could you help these people?
+
+What types of partnerships could you develop that would allow you to more quickly achieve your goals and help them more quickly achieve theirs?
+
+When you collaborate with other people, 1+1 = more than two. The whole becomes different from the sum of its parts.
+
+This is how transformation occurs. Only those who engage in collaboration actually experience true transformation. People who only work well by themselves are stuck in their own narrow worldview and agendas.
+
+When you merge with others, your ideas and goals change. They become bigger and better. They become different from what you could ever create on your own.
+
+The only way to have these types of partnerships is to think long term. You must be invested and have skin in the game. It can't be transactional. It's can't be this for that. It must be about something a lot deeper. When it is, you'll have far more integrity in the work you do. You'll express greater appreciation. You'll consistently do the right thing, even if that right thing is difficult and uncomfortable.
+
+Don't seek transactional relationships. Only seek long-term transformational relationships.
+
+## Set 10X Goals and Face Your Fears
+
+Look at your current goals.
+
+Why is that your metric for "success"?
+
+Why is that your target?
+
+What would happen if, in all seriousness, you 10X'd that target?
+
+What if, rather than earning $3,000 a month, you pursued $30,000 a month?
+
+Is that even possible?
+
+Of course it's possible. There are several people doing it.
+
+The only difference between them and you is their education, relationships, and strategy.
+
+When you set a 10X goal, you're required to think very differently about your daily behaviors. You're required to be more serious in all aspects of your life. You're required to eliminate limiting thinking and consumptive distractions.
+
+Setting a 10X goal will be one of the best things you've ever done for yourself. This goal should be created while you are in a peak state. You get into a peak state by doing something powerful, whether that be exercising, learning, or being in a unique environment, such as a foreign country. You can even get into a peak state by being around certain types of people, the ones who inspire you to be the best version of yourself.
+
+Only you know what gets you into a peak and passionate state. So, do whatever it is that gets you there, and then write down your goals. Declare what you're going to do. Then write that goal down and visualize its achievement every single day until it becomes your reality.
+
+When you think about this goal, don't deviate from the natural flow of ideas that follow.
+
+You can't 10X your results by engaging in the same thinking and behaviors you're currently performing. Consequently, while thinking about your goal, you'll also get ideas about what you need to do, realistically, to achieve that goal.
+
+Chances are, you don't know what you don't know. So you'll need to start really educating yourself about how you could conceivably achieve your goal. You'll need to get bolder about the work you're doing. You'll need to create more, and fail more. Over and over, in fact. Quantity is often the fastest path to quality.
+
+Not only that, but when you think about your 10X goal, you'll probably have ideas that scare you. When you do work that scares you, you cross a boundary that most people never cross. Scary work is often highly profitable and valuable work.
+
+## Get Really, Really Good at Marketing
+
+Marketing is nothing more than applied psychology.
+
+It's about connecting with people, persuading them, and helping them.
+
+Many people think marketing is a nasty or immoral thing.
+
+Many "artists" don't learn marketing because they don't want to "sell out." They want their work to be pure.
+
+Academics are not better. Their work is not accessible to the common man.
+
+Marketing is nothing more than making your work easier to find and use.
+
+People aren't magically going to appear and buy your stuff.
+
+People aren't going to magically appear and read your stuff.
+
+Even right now: How did you land on this page? Look at the title of this article. I could have just as easily called it "Advice for Becoming Successful."
+
+But would you have clicked on that article?
+
+Probably not.
+
+But you clicked on this one.
+
+Why did you click on this one?
+
+How did you get this far down?
+
+Think about the experience.
+
+Marketing is the "how" to whatever it is you do.
+
+The reason most people aren't successful is because they either fear or avoid marketing. For the same reason, most people are bad teachers. They're more focused on content than the delivery and design of that content.
+
+But the delivery -- the how -- is just as important, if not more important, than what you're doing or why you're doing it.
+
+You could have the cure for cancer. But if you don't market it well, you'll never get your cure out there.
+
+You could have the world's most important message, or greatest story, but no one will see it if you don't promote and package it intelligently.
+
+## Don't Focus on Time and Effort, Focus on Results Instead
+
+Dan Sullivan, founder of the exclusive entrepreneurial coaching platform Strategic Coach, distinguishes between those who are in the "Time-and-Effort Economy" with those who are in the "Results Economy."
+
+If you're in the time and effort economy, you are focused on being busy. You actually believe the amount of time and energy you put into something merits praise. Conversely, when you are in the results economy, you are only focused on achieving a specific result.
+
+The bottom line is what matters, and thus, it becomes very important to find the most effective way to get there. This is a key difference between entrepreneurs and employees. As Sullivan says:
+
+Entrepreneurs have crossed "the risk line" from the "Time-and-Effort Economy" to the "Results Economy." For them, there's no guaranteed income, no one writing them a paycheck every two weeks. They live by their ability to generate opportunity by creating value for their clientele. Sometimes, they -- and you -- will put in a lot of time and effort and get no result. Other times, they don't put in much time and effort and get a big result. The focus for entrepreneurs always has to be on results or there's no revenue coming in. If you work for an entrepreneur, guess what! This is true for you, too. Though you probably have a guaranteed income, it's important to understand that the business you work in exists inside The Results Economy, even if you're sheltered somewhat from seeing that. I say this not to make you feel insecure, but to show you how to succeed in this environment: by maximizing your results while minimizing the time and effort it takes to get them.
+
+Most people don't think in terms of results because their security is in a paycheck. However, when you shift your focus from how little you can do to how much you can do, you change how you work.
+
+You start learning ways to accomplish more faster. You take on greater responsibility. You change your environment. And you also realize just how important sleep and rest are to achieving the highest possible results. Hence, you begin to take more and more time off and rest.
+
+When you dedicate 80 percent of your energy to rest and self-improvement, then you have a lot of fodder and a very sharp saw to use during the time you're actually working.
+
+You're thinking 10X bigger than everyone else. You're operating under short timelines and high pressure. You can tax yourself to extremes while you work because you spend lots and lots of time resting and preparing.
+
+## Shift Your Environments Regularly
+
+The environments you work in should reflect the work you're doing.
+
+Doing several types of work in the same environment is ineffective. But people do it all the time. They sit in the same seat and mentally shift from one task to another.
+
+A far better approach is to batch your activities and to do those activities in a relevant environment.
+
+For example, when I write a blog post, I work in a quiet library where I have no distractions. Because my environment facilitates quality writing, and because I knew I'd be writing that day, I write a lot. It's easier to write two to five blog posts in one sitting than to try writing one post at a time.
+
+Ari Meisel, author and entrepreneur, batches his activities and alternates his environments to match the work he's doing. On days he is recording podcasts, he goes to a studio and records about five podcast episodes in a single session.
+
+On other days, he spends his whole day in meetings or on calls. He does this work at his friend's apartment because it's a much more engaging environment.
+
+He also does a lot of writing, and does that at the Soho House in New York City, because it's a quiet environment with poor internet connection. The lack of connection stops him from surfing the Web and even using his phone, because he has bad reception.
 
 
 
