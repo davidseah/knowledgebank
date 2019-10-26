@@ -2,7 +2,8 @@
 
 * [Introduction](README.md)
 * [Life](life.md)
-* [Principles](mental-model.md)
+* [Principles](mental-model/README.md)
+  * [Learn](mental-model/learn.md)
 * [Links](links/README.md)
   * [Blogs](links/blogs.md)
 * [Books](books.md)
