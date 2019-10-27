@@ -4,9 +4,9 @@ description: My strategy on learning things
 
 # Learn
 
-Growing up I am never really master how to learn things. I was average at best. All this while I assume that my lack of good grades was due to the lack of working hard. 
+Growing up I had never master how to learn things. I was average at best. All this while I assumed that my lack of good grades was due to the lack of working hard. 
 
-It is only when I got into university, I hit the wall. I was working really hard in university, the hardest I ever did in my life. But I was not learning as much as I wanted to. The result as not showing. It was then that I realized that it is not just working hard. People that do well in school, are doing things differently than I am. I am sure I worked harder than anyone, so there must be something more. 
+It was only when I got into university, I hit the wall. I was working really hard, the hardest I ever did in my life. But I was not learning as much as I wanted to. The result as not showing. It was then that I realized that it is not just working hard. People that do well in school, are doing things differently than I am. I am sure I worked harder than anyone, so there must be something more. 
 
 I do not believe in intelligent, or rather I do not want to limit myself by giving excuses that I am not as smart as others. I started researching about ways to study or learn more effectively. 
 
@@ -49,6 +49,15 @@ At this stage, you are simply following instructions. Clear and precise instruct
 ### Semi Expert <a id="semi-expert"></a>
 
 By now you should have some context and experience with what you are doing. But to be an expert, you have to play around with recipes and come out with your own mantras and rules. Lastly, d**esign your own recipes**.[ ](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdavidseah.github.io%2Fgoals%2FZero-To-Semi-Expert%2F)
+
+
+
+## Links
+
+* [https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner)
+* [https://daedtech.com/how-software-groups-rot-legacy-of-the-expert-beginner/](https://daedtech.com/how-software-groups-rot-legacy-of-the-expert-beginner/)
+* [https://daedtech.com/how-stagnation-is-justified-language-of-the-expert-beginner/](https://daedtech.com/how-stagnation-is-justified-language-of-the-expert-beginner/)
+* [https://daedtech.com/up-or-not-ambition-of-the-expert-beginner](https://daedtech.com/up-or-not-ambition-of-the-expert-beginner)
 
 
 
