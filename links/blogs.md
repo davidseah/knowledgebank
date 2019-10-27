@@ -10,7 +10,7 @@ description: A list of blogs that I read regular
 
 ## Life
 
-* [Steph Smith](https://blog.stephsmith.io/)
+* [Steph Smith](https://blog.stephsmith.io/) - Remote work, continuous growth, and technology.
 * [Mark Manson](https://markmanson.net/archive)
 * [Darius Foroux](https://dariusforoux.com/blog/?utm_source=pocket)
 * [Code Without Rules](https://codewithoutrules.com/)

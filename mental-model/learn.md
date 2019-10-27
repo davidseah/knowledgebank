@@ -4,9 +4,9 @@ description: My strategy on learning things
 
 # Learn
 
-Growing up I had never master how to learn things. I was average at best. All this while I assumed that my lack of good grades was due to the lack of working hard. 
+My grades were always average. I assumed that my lack of good grades was due to the lack of working hard. 
 
-It was only when I got into university, I hit the wall. I was working really hard, the hardest I ever did in my life. But I was not learning as much as I wanted to. The result as not showing. It was then that I realized that it is not just working hard. People that do well in school, are doing things differently than I am. I am sure I worked harder than anyone, so there must be something more. 
+It was only when I got into university, I realized that maybe its more than working hard. I was working really hard, the hardest I ever did in my life. But I was not learning as much as I wanted to. The result as not showing. It was then that I realized that it is not just working hard. People that do well in school, are doing things differently than I am. I am sure I worked harder than anyone, so there must be something more. 
 
 I do not believe in intelligent, or rather I do not want to limit myself by giving excuses that I am not as smart as others. I started researching about ways to study or learn more effectively. 
 
