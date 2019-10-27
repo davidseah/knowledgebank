@@ -8,7 +8,7 @@
 
 #### New Features in C++11
 
-1. \_\_[_long long_ Type](https://app.gitbook.com/@davidseah/s/davidseah/~/drafts/-LsB05JKKI3s3pwiUK_N/primary/programming/programming_language/c++#long-long-type)
+1. \_\_[_long long_ Type](https://davidseah.gitbook.io/davidseah/programming/programming_language/c++#long-long-type)
 2. List Initialization
 3. _**nullptr**_ Literal
 4. _**constexpr**_ Varaibles 
