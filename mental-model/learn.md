@@ -50,14 +50,42 @@ At this stage, you are simply following instructions. Clear and precise instruct
 
 By now you should have some context and experience with what you are doing. But to be an expert, you have to play around with recipes and come out with your own mantras and rules. Lastly, d**esign your own recipes**.[ ](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdavidseah.github.io%2Fgoals%2FZero-To-Semi-Expert%2F)
 
-
-
 ## Links
 
 * [https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner)
 * [https://daedtech.com/how-software-groups-rot-legacy-of-the-expert-beginner/](https://daedtech.com/how-software-groups-rot-legacy-of-the-expert-beginner/)
 * [https://daedtech.com/how-stagnation-is-justified-language-of-the-expert-beginner/](https://daedtech.com/how-stagnation-is-justified-language-of-the-expert-beginner/)
 * [https://daedtech.com/up-or-not-ambition-of-the-expert-beginner](https://daedtech.com/up-or-not-ambition-of-the-expert-beginner)
+
+## Skills
+
+Skills that I want to master
+
+1. C++ 
+2. Computer Science
+
+   * Algorithm
+     * Breath first search
+     * 
+
+
+
+   * Design Pattern
+
+3. Computer Graphics 
+   * OpenGL
+   * Vulkan
+   * Rendering Algorithm
+   * WebGL
+4. Full Stack Development
+5. Cloud Services 
+   * AWS
+6. Writing
+   * Grammar
+   * Vocabulary/Spelling
+7. Guitar
+
+
 
 
 
