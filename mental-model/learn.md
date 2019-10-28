@@ -56,6 +56,8 @@ By now you should have some context and experience with what you are doing. But 
 * [https://daedtech.com/how-software-groups-rot-legacy-of-the-expert-beginner/](https://daedtech.com/how-software-groups-rot-legacy-of-the-expert-beginner/)
 * [https://daedtech.com/how-stagnation-is-justified-language-of-the-expert-beginner/](https://daedtech.com/how-stagnation-is-justified-language-of-the-expert-beginner/)
 * [https://daedtech.com/up-or-not-ambition-of-the-expert-beginner](https://daedtech.com/up-or-not-ambition-of-the-expert-beginner)
+* [https://www.nateliason.com/blog/become-expert-dreyfus](https://www.nateliason.com/blog/become-expert-dreyfus)
+* [https://cse.buffalo.edu/~rapaport/howtostudy.html](https://cse.buffalo.edu/~rapaport/howtostudy.html)
 
 ## Skills
 

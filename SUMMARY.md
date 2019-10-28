@@ -1,7 +1,9 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Life](life.md)
+* [Life](life/README.md)
+  * [Career](life/career.md)
+  * [Productivity](life/productivity.md)
 * [Principles](mental-model/README.md)
   * [Learn](mental-model/learn.md)
 * [Links](links/README.md)
@@ -23,7 +25,8 @@
   * [javascript](programming/programming_language/javascript.md)
   * [C++](programming/programming_language/c++/README.md)
     * [Class](programming/programming_language/c++/class.md)
-* [Computer Graphics](programming/computer-graphics.md)
+* [Computer Graphics](programming/computer-graphics/README.md)
+  * [OpenGL](programming/computer-graphics/opengl.md)
 * [Web](programming/web/README.md)
   * [Node.JS](programming/web/node.js.md)
 
