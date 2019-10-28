@@ -7,3 +7,9 @@
 * [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/)
 * [GPU Gems](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html)
 
+## Font Rendering
+
+#### Links
+
+* [Microsoft Fonts Reference](https://docs.microsoft.com/en-us/typography/)
+
