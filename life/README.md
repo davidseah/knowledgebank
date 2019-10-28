@@ -1,4 +1,4 @@
-# Life Hack
+# Life
 
 
 
