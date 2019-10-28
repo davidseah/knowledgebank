@@ -21,6 +21,7 @@ description: A list of blogs that I read regular
 * [Common Clog](https://commoncog.com/blog/)
 * [Dave Asprey](https://blog.daveasprey.com/category/article/)
 * [krister's coding adventure](http://code.krister.ee/)
+* [James Clear](https://jamesclear.com/)
 
 ## Tech
 
@@ -29,7 +30,8 @@ description: A list of blogs that I read regular
 * [Martin Fowler](https://martinfowler.com)
 * [Julia Evans](https://jvns.ca/)
 * [Jeremy Yong](https://www.jeremyong.com/)
-* [daedtech](https://daedtech.com/)
+* [Daedtech](https://daedtech.com/)
+* [Elias Daler](https://eliasdaler.github.io/) - Game Development Blog
 
 ## Programming
 

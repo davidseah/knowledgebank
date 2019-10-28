@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Life](life/README.md)
+* [Life Hack](life/README.md)
   * [Career](life/career.md)
   * [Productivity](life/productivity.md)
 * [Principles](mental-model/README.md)

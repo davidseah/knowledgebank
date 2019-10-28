@@ -360,7 +360,9 @@ On other days, he spends his whole day in meetings or on calls. He does this wor
 
 He also does a lot of writing, and does that at the Soho House in New York City, because it's a quiet environment with poor internet connection. The lack of connection stops him from surfing the Web and even using his phone, because he has bad reception.
 
+## Links
 
+* [Mental Models I Find Repeatedly Useful](https://getpocket.com/explore/item/mental-models-i-find-repeatedly-useful)
 
 
 
