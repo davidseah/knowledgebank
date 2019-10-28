@@ -2,8 +2,7 @@
 
 ## Links
 
-* [https://visualcraze.com/](https://visualcraze.com/)
-* [https://100life.jp/](https://100life.jp/)
-* [https://www.cromly.com/](https://www.cromly.com/)
-* [https://www.dezeen.com/](https://www.dezeen.com/)
+* [visualcraze](https://visualcraze.com/)
+* [100life](https://100life.jp/)
+* [Dezeen](https://www.dezeen.com/)
 
