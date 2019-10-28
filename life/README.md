@@ -1,7 +1,5 @@
 # Life
 
-
-
 ## Abstract Goals
 
 1. Able to write in a way that stirs emotions and communicate my thoughts clearly  
@@ -15,8 +13,6 @@ Always ask why. Why do I want these goals?
 ### Able to write in a way that stirs emotions and communicate my thoughts clearly  
 
 After working as a software engineer for 5 years, I learned that building a good software is not just programming. It is more than programming, you need to be able to communicate your ideas, to convince and to persuade. 
-
-
 
 ## Habits
 
