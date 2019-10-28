@@ -7,6 +7,7 @@
 * [Principles](mental-model/README.md)
   * [Learn](mental-model/learn.md)
 * [Links](links/README.md)
+  * [Design + Architecture](links/design-+-architecture.md)
   * [Blogs](links/blogs.md)
 * [Books](books.md)
 * [Trello](trello.md)

@@ -12,4 +12,5 @@
 #### Links
 
 * [Microsoft Fonts Reference](https://docs.microsoft.com/en-us/typography/)
+* [An Introduction to Writing Systems & Unicode](https://r12a.github.io/scripts/tutorial/index)
 

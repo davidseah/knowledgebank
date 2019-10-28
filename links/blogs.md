@@ -19,6 +19,8 @@ description: A list of blogs that I read regular
 * [Minimalist Coder](http://theminimalistcoder.com/)
 * [Devine Lu Linvega](https://wiki.xxiivv.com/#devine+lu+linvega)
 * [Common Clog](https://commoncog.com/blog/)
+* [Dave Asprey](https://blog.daveasprey.com/category/article/)
+* [krister's coding adventure](http://code.krister.ee/)
 
 ## Tech
 
@@ -34,7 +36,7 @@ description: A list of blogs that I read regular
 * 
 ## Others
 
-* [https://forestry.io/](https://forestry.io/)
+* [forestry](https://forestry.io/) - CMS for GIT blog
 
 
 
