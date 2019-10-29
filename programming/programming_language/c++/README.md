@@ -91,6 +91,7 @@
 * [boostcpplibraries](https://theboostcpplibraries.com/)
 * [C++ idoms](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms)
 * [iso Core guidelines](https://github.com/isocpp/CppCoreGuidelines)
+* [Geeksforgeeks.org\(C++\)](https://www.geeksforgeeks.org/c-plus-plus/)
 
 #### Tutorial 
 
