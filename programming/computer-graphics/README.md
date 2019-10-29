@@ -19,3 +19,10 @@
 * [An Introduction to Writing Systems & Unicode](https://r12a.github.io/scripts/tutorial/index)
 * [Font Forge](http://fontforge.github.io/en-US/)
 
+## Font Tools
+
+**Links**
+
+* [DTL OTMaster Light](https://download.cnet.com/DTL-OTMaster-Light/3000-2316_4-10964666.html)
+* [Font Tools\(TTX\)](https://github.com/fonttools/fonttools)
+
