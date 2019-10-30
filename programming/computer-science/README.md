@@ -8,4 +8,5 @@
 * [Agner Software Optimization](https://www.agner.org/optimize/)
 * [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
 * [Game Engine Architecture](%20http://nikoladimitroff.github.io/Game-Engine-Architecture/)
+* [What Every Programmer should know about Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 
