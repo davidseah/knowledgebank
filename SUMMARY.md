@@ -33,3 +33,8 @@
 * [Web](programming/web/README.md)
   * [Node.JS](programming/web/node.js.md)
 
+## Side Projects
+
+* [Computer graphics](side-projects/computer-graphics/README.md)
+  * [Learn OpenGL](side-projects/computer-graphics/learn-opengl.md)
+
