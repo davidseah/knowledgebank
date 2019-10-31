@@ -63,6 +63,8 @@ By now you should have some context and experience with what you are doing. But 
 
 Skills that I want to master
 
+### Personal
+
 1. C++ 
 2. Computer Science
 
@@ -86,6 +88,13 @@ Skills that I want to master
    * Grammar
    * Vocabulary/Spelling
 7. Guitar
+
+### Work
+
+1. How resource dependency mapping works
+2. How ROCH works
+3. HL3D Memory
+4. Display Calculation
 
 
 
