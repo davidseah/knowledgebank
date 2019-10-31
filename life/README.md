@@ -6,7 +6,7 @@
 2. A healthy body, that looks good \(no tummy\), physically fit, with no addiction
 3. Good problem solver 
 4. Plays the guitar well
-5. Master learning
+5. Ability to learn fast
 
 Always ask why. Why do I want these goals?
 
@@ -18,10 +18,44 @@ After working as a software engineer for 5 years, I learned that building a good
 
 1. At least 7 hours of sleep every day
 2. Sleep and wake up the same time
+3. Exercise 3 times a week
+
+## Rules to follow
+
+Simple rules to follow but make huge impact
+
+1. Eat as little sugar as possible
+2. Intermittent fasting
+3. Plan the day/month/year ahead using a list
+
+## Food for thought
+
+* What is right thing to work on now?
+  * Set a side time to think about this question regularly
+  * Do independent thinking
+  * Talk to people, read books
+* You can learn anything you want and you can learn it fast.
+* Make a list for what you want to accomplish each day, month, year. 
+  * Help in focusing
+  * prioritize it that helps to create momentum 
+  * What is your most important project?
+
+## Most Important Skill
+
+* Writing
+* C++
+
+## Vision
+
+* To build products that people actually use
+* To be financial independent such that I can work on anything I want
 
 ## Links
 
 * [131 Actionable ideas from ten books I wish I had read ages ago](https://medium.com/the-mission/131-actionable-ideas-from-ten-books-i-wish-i-had-read-ages-ago-d751c17402de)
 * [Master your work](https://zapier.com/blog/master-your-work/)
 * [Think strategically about your career development](https://hbr.org/2016/12/think-strategically-about-your-career-development?utm_campaign=HBR&utm_source=facebook&utm_medium=social)
+* [7 Steps To Developing Career Capital -- And Achieving Success](https://www.forbes.com/sites/laurashin/2013/05/22/7-steps-to-developing-career-capital-and-achieving-success/#219310717a9f)
+* [Aaron Swartz Productivity](http://www.aaronsw.com/weblog/productivity)
+* [Sam Altman Productivity](https://blog.samaltman.com/productivity)  
 

@@ -4,7 +4,7 @@ description: >-
   apply it to my life.
 ---
 
-# Principles
+# Wisdom
 
 ## Contribute to the open source community
 
