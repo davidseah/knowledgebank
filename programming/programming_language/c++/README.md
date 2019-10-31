@@ -1,16 +1,9 @@
 # C++
 
-## Github Repo
-
-[https://github.com/davidseah/cpp.git](https://github.com/davidseah/cpp.git)
-
-## Online Sandbox
-
-* [https://repl.it/@DavidSeah/my-cppknowledgebank](https://repl.it/@DavidSeah/my-cppknowledgebank)
-
-## List of cpp concept
+**List of cpp concept**
 
 * Class
+  * [Sample Code on Wandbox](https://wandbox.org/permlink/WgwjQzRxOB0xp4Nl)
 * Inheritance
 * Operator overload
 * Template / Class template
