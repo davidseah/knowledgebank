@@ -3,10 +3,9 @@
 **List of cpp concept**
 
 * Class
-  * [Sample Code on Wandbox](https://wandbox.org/permlink/WgwjQzRxOB0xp4Nl)
-* Inheritance
 * Operator overload
 * Template / Class template
+* Inheritance
 * Memory Allocation
 * Type of STL containers
 * STL alogrithm
@@ -18,13 +17,6 @@
 ### New Features in C++11
 
 1. auto
-
-## Compiler
-
-* [cpp insights](https://cppinsights.io/)
-* [wandbox](https://wandbox.org/)
-* [Compiler Explorer Godbolt](https://godbolt.org/)
-* [repl.it](https://repl.it/languages)
 
 ## Links
 
