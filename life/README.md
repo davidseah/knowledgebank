@@ -14,6 +14,11 @@ Always ask why. Why do I want these goals?
 
 After working as a software engineer for 5 years, I learned that building a good software is not just programming. It is more than programming, you need to be able to communicate your ideas, to convince and to persuade. 
 
+## Vision
+
+* To build products that people actually use
+* To be financial independent such that I can work on anything I want
+
 ## Habits
 
 1. At least 7 hours of sleep every day
@@ -45,10 +50,7 @@ Simple rules to follow but make huge impact
 * Writing
 * C++
 
-## Vision
 
-* To build products that people actually use
-* To be financial independent such that I can work on anything I want
 
 ## Links
 
