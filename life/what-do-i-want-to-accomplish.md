@@ -30,6 +30,11 @@ Week 1 \( 1 Nov - 3 Nov\)
 
 Week 2 \( 4 Nov - 10 Nov\)
 
+* Come out with a list C++ topics that is critical for a C++ programmer
+* Have examples for the list of C++ topics
+* Work on Node.js online course
+* Work on learnopengl course
+
 Week 3 \( 11 Nov - 17 Nov\)
 
 Week 4 \( 18 Nov - 24 Nov\)
