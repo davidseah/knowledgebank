@@ -50,6 +50,10 @@ At this stage, you are simply following instructions. Clear and precise instruct
 
 By now you should have some context and experience with what you are doing. But to be an expert, you have to play around with recipes and come out with your own mantras and rules. Lastly, d**esign your own recipes**.[ ](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdavidseah.github.io%2Fgoals%2FZero-To-Semi-Expert%2F)
 
+## Practice
+
+Start early. I realized that after 8 pm, I am not able to focus. So it is important to schedule learning before 8 pm. I can relax and do things that I like after 8 pm, instead of going through the motion.  
+
 ## Links
 
 * [https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner)
