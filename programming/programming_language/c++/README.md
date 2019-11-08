@@ -32,6 +32,8 @@
 * [iso Core guidelines](https://github.com/isocpp/CppCoreGuidelines)
 * [Geeksforgeeks.org\(C++\)](https://www.geeksforgeeks.org/c-plus-plus/)
 
+
+
 #### Tutorial 
 
 * [This Pointer](https://thispointer.com/c11-tutorial/)
@@ -39,6 +41,10 @@
 #### Libraries
 
 * [A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things](https://cpp.libhunt.com/)
+
+#### Articles
+
+* [How C program stored in ram memory](https://dev.to/visheshpatel/how-c-program-stored-in-ram-memory-3773)
 
 #### Blogs
 
