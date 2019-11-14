@@ -25,6 +25,7 @@
 * [Programming Language](programming/programming_language/README.md)
   * [javascript](programming/programming_language/javascript.md)
   * [C++](programming/programming_language/c++/README.md)
+    * [Rule of Thumb](programming/programming_language/c++/rule-of-thumb.md)
     * [Overview](programming/programming_language/c++/stl.md)
 * [Computer Graphics](programming/computer-graphics/README.md)
   * [OpenGL](programming/computer-graphics/opengl.md)
