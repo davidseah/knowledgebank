@@ -37,6 +37,8 @@
 #### Tutorial 
 
 * [This Pointer](https://thispointer.com/c11-tutorial/)
+* [cpp studytonight](https://www.studytonight.com/cpp/)
+* [stl studytonight](https://www.studytonight.com/cpp/stl/)
 
 #### Libraries
 
