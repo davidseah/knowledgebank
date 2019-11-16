@@ -19,19 +19,7 @@ After working as a software engineer for 5 years, I learned that building a good
 * To build products that people actually use
 * To be financial independent such that I can work on anything I want
 
-## Habits
-
-1. At least 7 hours of sleep every day
-2. Sleep and wake up the same time
-3. Exercise 3 times a week
-
-## Rules to follow
-
-Simple rules to follow but make huge impact
-
-1. Eat as little sugar as possible
-2. Intermittent fasting
-3. Plan the day/month/year ahead using a list
+## 
 
 ## Food for thought
 
@@ -59,5 +47,5 @@ Simple rules to follow but make huge impact
 * [Think strategically about your career development](https://hbr.org/2016/12/think-strategically-about-your-career-development?utm_campaign=HBR&utm_source=facebook&utm_medium=social)
 * [7 Steps To Developing Career Capital -- And Achieving Success](https://www.forbes.com/sites/laurashin/2013/05/22/7-steps-to-developing-career-capital-and-achieving-success/#219310717a9f)
 * [Aaron Swartz Productivity](http://www.aaronsw.com/weblog/productivity)
-* [Sam Altman Productivity](https://blog.samaltman.com/productivity)  
-
+* [Sam Altman Productivity](https://blog.samaltman.com/productivity) 
+* 

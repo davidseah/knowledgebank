@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Life](life/README.md)
+  * [Rules of life](life/rules-of-life.md)
   * [Most valuable things](life/most-valuable-things.md)
   * [What do I want to accomplish](life/what-do-i-want-to-accomplish.md)
   * [Learn](life/learn.md)
