@@ -22,6 +22,18 @@ In this age, we are living in a world of attention deficient. Just look around, 
 
 
 
+loop 
+
+**Inspiration → Motivation → Action → Inspiration → Motivation → Action → Etc.**
+
+Taking advantage of this knowledge we can reorient our mind. 
+
+ **Action → Inspiration → Motivation** 
+
+ ****If I am lacking any motivation to make an important changes in life, just do something, do anything to harness the reaction of the action as a form of motivation.
+
+## Better to do something that you can sustain for a long period of time
+
 ## Habits
 
 1. At least 7 hours of sleep every day
