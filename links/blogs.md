@@ -35,7 +35,11 @@ description: A list of blogs that I read regular
 
 ## Programming
 
-* [bogotobogo](https://www.bogotobogo.com/index.php)
+* [Bogotobogo](https://www.bogotobogo.com/index.php)
+
+## Design/Art
+
+* [Paulstamatiou](https://paulstamatiou.com/)
 
 ## Others
 
