@@ -29,7 +29,7 @@
 * [isocpp](https://isocpp.org/)
 * [boostcpplibraries](https://theboostcpplibraries.com/)
 * [C++ idoms](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms)
-* [iso Core guidelines](https://github.com/isocpp/CppCoreGuidelines)
+* [ISO Cpp Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 * [Geeksforgeeks.org\(C++\)](https://www.geeksforgeeks.org/c-plus-plus/)
 * [The guidelines support library](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#S-gsl)
 * [The ISO C++ Standard Library](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#S-stdlib)
