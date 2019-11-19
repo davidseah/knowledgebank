@@ -41,9 +41,7 @@ description: A list of blogs that I read regular
 
 * [Paulstamatiou](https://paulstamatiou.com/)
 
-## Others
-
-* [forestry](https://forestry.io/) - CMS for GIT blog
+## 
 
 
 
