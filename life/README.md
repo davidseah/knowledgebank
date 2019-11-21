@@ -48,4 +48,5 @@ After working as a software engineer for 5 years, I learned that building a good
 * [7 Steps To Developing Career Capital -- And Achieving Success](https://www.forbes.com/sites/laurashin/2013/05/22/7-steps-to-developing-career-capital-and-achieving-success/#219310717a9f)
 * [Aaron Swartz Productivity](http://www.aaronsw.com/weblog/productivity)
 * [Sam Altman Productivity](https://blog.samaltman.com/productivity) 
-* 
+* [How to create wealth](https://www.hscott.net/how-to-create-wealth/)
+
