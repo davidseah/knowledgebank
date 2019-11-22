@@ -41,7 +41,11 @@ description: A list of blogs that I read regular
 
 * [Paulstamatiou](https://paulstamatiou.com/)
 
-## 
+## Game Development
+
+* [pixelprospector](https://pixelprospector.com/)
+
+
 
 
 
