@@ -1,4 +1,4 @@
-# Game XYZ
+# SuperGame
 
 ## Reading Material
 

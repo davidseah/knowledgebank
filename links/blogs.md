@@ -8,6 +8,7 @@ description: A list of blogs that I read regular
 
 * [Tree of Prosperity ](http://treeofprosperity.blogspot.com/)
 * [Early Retirement](https://earlyretirementsg.weebly.com/)
+* [The simple sum](https://thesimplesum.com/)
 
 ## Life
 

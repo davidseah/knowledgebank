@@ -38,6 +38,6 @@
 * [Side Projects](side-projects/side-projects.md)
 * [Computer graphics](side-projects/computer-graphics/README.md)
   * [Learn OpenGL](side-projects/computer-graphics/learn-opengl.md)
-* [Game XYZ](side-projects/game-xyz.md)
+* [SuperGame](side-projects/game-xyz.md)
 * [SCRUM](scrum.md)
 
