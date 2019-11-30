@@ -40,4 +40,5 @@
   * [Learn OpenGL](side-projects/computer-graphics/learn-opengl.md)
 * [SuperGame](side-projects/game-xyz.md)
 * [SCRUM](scrum.md)
+* [Inspiration](inspiration.md)
 
