@@ -50,6 +50,10 @@
 
 * [Paulstamatiou](https://paulstamatiou.com/)
 
+## Others
+
+* [Wait but why](https://waitbutwhy.com/)
+
 ## Game Development
 
 * [pixelprospector](https://pixelprospector.com/)
