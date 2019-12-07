@@ -8,9 +8,15 @@
 
 
 
-![Real Time Collision Detection](../.gitbook/assets/image%20%283%29.png)
+![Real Time Collision Detection](../../.gitbook/assets/image%20%283%29.png)
 
-![SFML Game Development](../.gitbook/assets/image.png)
+![SFML Game Development](../../.gitbook/assets/image.png)
 
+## Development
+
+### SFML Game Development
+
+* November 2019 - Chapter 1 & 2
+* 
 
 

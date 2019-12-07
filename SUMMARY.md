@@ -36,7 +36,8 @@
 * [Side Projects](side-projects/side-projects.md)
 * [Computer graphics](side-projects/computer-graphics/README.md)
   * [Learn OpenGL](side-projects/computer-graphics/learn-opengl.md)
-* [SuperGame](side-projects/game-xyz.md)
+* [SuperGame](side-projects/game-xyz/README.md)
+  * [SFML Game Development Notes](side-projects/game-xyz/sfml-game-development-notes.md)
 * [SCRUM](scrum.md)
 * [Inspiration](inspiration.md)
 
