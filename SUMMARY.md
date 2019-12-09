@@ -40,4 +40,6 @@
   * [SFML Game Development Notes](side-projects/game-xyz/sfml-game-development-notes.md)
 * [SCRUM](scrum.md)
 * [Inspiration](inspiration.md)
+* [Tools](tools/README.md)
+  * [GitExtension](tools/gitextension.md)
 
