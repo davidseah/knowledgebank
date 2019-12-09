@@ -41,5 +41,6 @@
 * [SCRUM](scrum.md)
 * [Inspiration](inspiration.md)
 * [Tools](tools/README.md)
+  * [Visual Studio Code](tools/visual-studio-code.md)
   * [GitExtension](tools/gitextension.md)
 
