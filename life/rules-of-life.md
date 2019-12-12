@@ -48,6 +48,10 @@ Simple rules to follow but make huge impact
 2. Intermittent fasting
 3. Plan the day/month/year ahead using a list
 
+## Leave a person/place/code/environment better when I step out than when I enter in
+
+## Instead of asking what can I get, ask what can I give or how can I help you.  
+
 
 
 
