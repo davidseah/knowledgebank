@@ -30,6 +30,7 @@
 * [Dave Asprey](https://blog.daveasprey.com/category/article/)
 * [krister's coding adventure](http://code.krister.ee/)
 * [James Clear](https://jamesclear.com/)
+* [Neilkakkar](https://neilkakkar.com/)
 
 ## Tech
 
