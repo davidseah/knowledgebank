@@ -52,6 +52,12 @@ Simple rules to follow but make huge impact
 
 ## Instead of asking what can I get, ask what can I give or how can I help you.  
 
+## Spend time to truly understanding something
+
+Knowing something in a deep way brings satisfaction. To understand something deep also means you can explain simply to another person which brings up your joy as a engineer. I
+
+
+
 
 
 
