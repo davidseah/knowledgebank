@@ -31,6 +31,7 @@
 * [krister's coding adventure](http://code.krister.ee/)
 * [James Clear](https://jamesclear.com/)
 * [Neilkakkar](https://neilkakkar.com/)
+* [Nateliason](https://www.nateliason.com/)
 
 ## Tech
 
