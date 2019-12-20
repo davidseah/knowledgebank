@@ -47,6 +47,7 @@
 ## Learn
 
 * [OpenGL](learn/opengl.md)
+* [Algorithm](learn/algorithm.md)
 * [C++](learn/c++/README.md)
   * [Initializer Lists](learn/c++/initializer-lists.md)
   * [Uniform initialization](learn/c++/uniform-initialization.md)
