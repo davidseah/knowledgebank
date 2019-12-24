@@ -44,7 +44,6 @@
 * [Daedtech](https://daedtech.com/)
 * [Elias Daler](https://eliasdaler.github.io/) - Game Development Blog
 * [Allen Chou](http://www.allenchou.net/blog/)
-* [Letterstoanewdeveloper](https://letterstoanewdeveloper.com/)
 
 ## Programming
 
