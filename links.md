@@ -82,4 +82,5 @@
 * [vanschneider](https://www.vanschneider.com/blog)
 * [Codinghorror](https://blog.codinghorror.com/)
 * [lesswrong](https://www.lesswrong.com/)
+* [Indiehackers](https://www.indiehackers.com/)
 

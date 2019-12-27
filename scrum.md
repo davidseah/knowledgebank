@@ -9,6 +9,8 @@
 * [Scrum guide](https://www.scrumguides.org/scrum-guide.html)
 * [Assessments](https://www.scrum.org/open-assessments/scrum-open)
 * [Professional Scrum Competencies](https://www.scrum.org/professional-scrum-competencies)
+* [Assessments/ Product Owner](https://www.scrum.org/open-assessments/product-owner-open)
+* [Assessments/ Scrum Developer](https://www.scrum.org/open-assessments/scrum-developer-open)
 
 ### Scrum Theory
 
