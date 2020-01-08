@@ -35,6 +35,7 @@
 * [Nateliason](https://www.nateliason.com/)
 * [Mtlynch](https://mtlynch.io/)
 * [Bennettnotes](https://www.bennettnotes.com/)
+* [Manojsurya](https://manojsurya.com/)
 
 ## Tech
 
