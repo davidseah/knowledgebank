@@ -34,6 +34,7 @@
 * [Neilkakkar](https://neilkakkar.com/)
 * [Nateliason](https://www.nateliason.com/)
 * [Mtlynch](https://mtlynch.io/)
+* [Bennettnotes](https://www.bennettnotes.com/)
 
 ## Tech
 
