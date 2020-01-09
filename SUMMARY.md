@@ -47,6 +47,9 @@
 ## Learn
 
 * [OpenGL](learn/opengl.md)
+* [How to](learn/how-to/README.md)
+  * [How to read big difficult books](learn/how-to/how-to-read-big-difficult-books.md)
+  * [How to read a paper](learn/how-to/how-to-read-a-paper.md)
 * [Algorithm](learn/algorithm.md)
 * [C++](learn/c++/README.md)
   * [Initializer Lists](learn/c++/initializer-lists.md)
