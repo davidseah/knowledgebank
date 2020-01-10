@@ -11,6 +11,7 @@
 * [100life](https://100life.jp/)
 * [Dezeen](https://www.dezeen.com/)
 * [Spoonfulofhomedesign](https://spoonfulofhomedesign.com/)
+* [Deskhunt](https://deskhunt.com/)
 
 ## Finance
 
