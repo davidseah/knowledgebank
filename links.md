@@ -36,6 +36,7 @@
 * [Mtlynch](https://mtlynch.io/)
 * [Bennettnotes](https://www.bennettnotes.com/)
 * [Manojsurya](https://manojsurya.com/)
+* [Mtlynch](https://mtlynch.io/)
 
 ## Tech
 

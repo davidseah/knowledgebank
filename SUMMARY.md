@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Life](life/README.md)
+  * [Wish List](life/wish-list.md)
   * [Rules of life](life/rules-of-life.md)
   * [Most valuable things](life/most-valuable-things.md)
   * [What do I want to accomplish](life/what-do-i-want-to-accomplish.md)
@@ -47,12 +48,15 @@
 ## Learn
 
 * [OpenGL](learn/opengl.md)
-* [How to](learn/how-to/README.md)
-  * [How to read big difficult books](learn/how-to/how-to-read-big-difficult-books.md)
-  * [How to read a paper](learn/how-to/how-to-read-a-paper.md)
 * [Algorithm](learn/algorithm.md)
 * [C++](learn/c++/README.md)
   * [Initializer Lists](learn/c++/initializer-lists.md)
   * [Uniform initialization](learn/c++/uniform-initialization.md)
 * [Vulkan](learn/vulkan.md)
+
+## How To
+
+* [How to read big difficult books](how-to/how-to-read-big-difficult-books.md)
+* [How to read a paper](how-to/how-to-read-a-paper.md)
+* [How to write](how-to/how-to-write.md)
 

@@ -8,9 +8,9 @@
 
 
 
-![Real Time Collision Detection](../../.gitbook/assets/image%20%286%29.png)
+![Real Time Collision Detection](../../.gitbook/assets/image%20%288%29.png)
 
-![SFML Game Development](../../.gitbook/assets/image%20%281%29.png)
+![SFML Game Development](../../.gitbook/assets/image%20%282%29.png)
 
 ## Development
 
