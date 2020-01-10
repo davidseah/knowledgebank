@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Life](life/README.md)
-  * [Rules of life](life/rules-of-life.md)
+  * [Productivity Manifesto](life/rules-of-life.md)
   * [Most valuable things](life/most-valuable-things.md)
   * [Goals](life/what-do-i-want-to-accomplish.md)
   * [Wish List](life/wish-list.md)

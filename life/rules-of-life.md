@@ -2,7 +2,7 @@
 description: Winning life one day at a time
 ---
 
-# Rules of life
+# Productivity Manifesto
 
 For everything in life, I believe that there is a secret. A way of doing it differently from the rest of the crowd that allows you to win in life. It might sound like it is difficult to do, which causes people not to do it. But many times it is not difficult but a lack of understanding of how the world or humans works. I do not know everything but I want to experiment and uncover the secrets of live. 
 
