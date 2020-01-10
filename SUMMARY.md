@@ -10,7 +10,7 @@
   * [Wisdom](life/mental-model.md)
   * [Life Hack](life/life-hack.md)
 * [Links](links.md)
-* [Books](books.md)
+* [Reading List](reading-list.md)
 * [Trello](trello.md)
 * [Github](github.md)
 * [Looking Back](looking-back/README.md)
