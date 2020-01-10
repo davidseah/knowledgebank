@@ -59,4 +59,5 @@
 * [How to read big difficult books](how-to/how-to-read-big-difficult-books.md)
 * [How to read a paper](how-to/how-to-read-a-paper.md)
 * [How to write](how-to/how-to-write.md)
+* [How to change my life](how-to/how-to-change-my-life.md)
 
