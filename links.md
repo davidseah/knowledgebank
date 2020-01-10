@@ -87,3 +87,9 @@
 * [lesswrong](https://www.lesswrong.com/)
 * [Indiehackers](https://www.indiehackers.com/)
 
+
+
+## Similar Wiki Guide
+
+* [Nikitavoloboev](https://wiki.nikitavoloboev.xyz/)
+
