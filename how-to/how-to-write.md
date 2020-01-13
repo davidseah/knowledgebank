@@ -8,6 +8,8 @@
 
 {% embed url="https://developers.google.com/style" %}
 
+{% embed url="http://advice.writing.utoronto.ca/wp-content/uploads/sites/2/wordiness.pdf" %}
+
 
 
 
