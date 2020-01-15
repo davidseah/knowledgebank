@@ -61,4 +61,6 @@
 * [How to read a paper](how-to/how-to-read-a-paper.md)
 * [How to write](how-to/how-to-write.md)
 * [How to change my life](how-to/how-to-change-my-life.md)
+* [How to learn Maths](how-to/how-to-learn-maths.md)
+* [How to learn graphics programming](how-to/how-to-learn-graphics-programming.md)
 
