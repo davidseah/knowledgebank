@@ -6,15 +6,15 @@ Projects and things that I want to learn.Be specific and detailed. The idea is t
 
 ## 2020
 
-* [ ] Build a 2D Game
-* [ ] Build a prototype Opengl engine
-* [ ] Build a prototype Vulkan engine
-* [ ] Read Physically Based Rendering: From Theory to Implementation
-* [ ] Build a production engine
-* [ ] Write 3 full articles and publish
-* [ ] Read 24 books
-* [ ] Exercise for 182 days
-* [ ] Read real time rendering
+* [ ] Build a 2D Game [🖥️](https://emojipedia.org/desktop-computer/)
+* [ ] Build a prototype Opengl engine [🖥️](https://emojipedia.org/desktop-computer/)
+* [ ] Build a prototype Vulkan engine [🖥️](https://emojipedia.org/desktop-computer/)
+* [ ] Read Physically Based Rendering: From Theory to Implementation [📚 ](https://emojipedia.org/books/)
+* [ ] Build a production engine [🖥️](https://emojipedia.org/desktop-computer/)
+* [ ] Write 3 full articles and publish [📚 ](https://emojipedia.org/books/)
+* [ ] Read 24 books [📚 ](https://emojipedia.org/books/)
+* [ ] Exercise for 182 days 🏋️
+* [ ] Read real time rendering [📚 ](https://emojipedia.org/books/)
 
  
 
