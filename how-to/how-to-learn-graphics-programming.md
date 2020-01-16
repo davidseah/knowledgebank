@@ -13,6 +13,16 @@ Interview earlier than you think you're qualified and listen to feedback. Learni
 7. Study and know data structures, particularly acceleration structures but also understand the importance of !/D cache utilization, effects of branching and have a feeling for the latency involved. 
 8. Start reading papers and try to implement one to start. I'd recommend the unreal BRDF paper. Understand derivations and try to reproduce the results. 
 9. Learn about compression and aliasing. Write a BCn codec. Read about how video codecs work \( the techniques are transferable\). Research and experiment with the various AA techniques out there\(MSAA, MLAA, FXAA, TXAA, etc\)
-10. 
+10. Study other engines, preferably specialized engines as opposed to general-purpose engines. Check out talks from  - [https://twitter.com/MichalDrobot](https://twitter.com/MichalDrobot) - [https://twitter.com/MyNameIsMJP](https://twitter.com/MyNameIsMJP) - [https://twitter.com/mirror2mask](https://twitter.com/mirror2mask)
+11. Learn to use the tools at your disposal. Core dumps, GPU dumps. Frame dumps, visualizers etc. Write your own tools when needed. [https://renderdoc.org/](https://renderdoc.org/) is especially useful when getting acquainted with the graphics pipeline for the first time. 
+12. Ask tons of questions. Graphics is really broad and no matter how much I lean about any given topic, there's always someone that knows more than I do. Experts are usually really gracious about helping out and giving advice.
+13. When you're in the industry try to shadow an artist work from time to time. \(lighting, texture, modeler, vfx technical etc.\). Seeing their workflow helps you understand how the content pipeline pieces together. You also get ideas on how to improve things. 
+14. Don't spend too much time being intimidated. Take techniques/ methods/algorithms one at a time. Slow and consistent improvement is much better than trying to cram it all in at once.
+15. Be quick to admit when you don't know something \(especially to yourself!\) or you'll cheat yourself of a learning opportunity. Embrace the fact that you get to work in a field that has so much to explore and learn and do. 
+16. At the same time don't accept what you read online as gospel truth either. Sometimes things change\(hardware, drivers, apis, but also our understanding of the best way to do things\).
+17. Don't get caught up in debates on A technique vs B technique\(eg. forward vs deferred, ect\) Learn what the techniques are and what the tradeoffs are. Implementation complexity also counts as tradeoff. 
+
+
+
 
 
