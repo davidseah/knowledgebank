@@ -38,6 +38,7 @@
 * [Bennettnotes](https://www.bennettnotes.com/)
 * [Manojsurya](https://manojsurya.com/)
 * [Mtlynch](https://mtlynch.io/)
+* [Scotthyoung](https://www.scotthyoung.com/blog/)
 
 ## Tech
 

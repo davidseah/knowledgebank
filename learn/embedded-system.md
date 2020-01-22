@@ -21,5 +21,9 @@ Embedded systems afford an effective platform to teach new engineers how to prog
 2. Embedded systems involve real input/output that is easy for the student to touch, hear and see
 3. Embedded systems are employed in many everyday products motivating students to see firsthand how engineering process can be applied in the real world. 
 
+Structure of the class
+
+The analog to digital converter\(ADC\) and digital to analog converter \(DAC\) are the chosen mechanism to bridge the computer and electrical worlds. Electrical engineering concepts include Ohms Law, LED voltage/current, resistance measurement
+
 
 
