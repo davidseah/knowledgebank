@@ -49,6 +49,7 @@
 
 ## Learn
 
+* [Embedded System](learn/embedded-system.md)
 * [OpenGL](learn/opengl.md)
 * [Algorithm](learn/algorithm.md)
 * [C++](learn/c++/README.md)
