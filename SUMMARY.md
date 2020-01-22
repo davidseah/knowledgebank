@@ -49,13 +49,13 @@
 
 ## Learn
 
-* [Embedded System](learn/embedded-system.md)
 * [OpenGL](learn/opengl.md)
 * [Algorithm](learn/algorithm.md)
 * [C++](learn/c++/README.md)
   * [Initializer Lists](learn/c++/initializer-lists.md)
   * [Uniform initialization](learn/c++/uniform-initialization.md)
 * [Vulkan](learn/vulkan.md)
+* [Embedded System](learn/embedded-system.md)
 
 ## How To
 
