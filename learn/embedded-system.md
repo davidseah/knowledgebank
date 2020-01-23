@@ -25,20 +25,5 @@ Structure of the class
 
 The analog to digital converter\(ADC\) and digital to analog converter \(DAC\) are the chosen mechanism to bridge the computer and electrical worlds. Electrical engineering concepts include Ohms Law, LED voltage/current, resistance measurement
 
-## Learning Objectives
-
-* Understand binary numbers, hexadecimal representation and the representation of signed and unsigned integers
-* Learn what an Embedded System is
-* Know the composition of a central processing unit, CPU
-* Know the terms Arithmetic Logical Unit, control unit, Registers, Bus, von Neumann, Harbard
-* Learn the memory map of the TM4C123
-* See some of the ARM Cortex M instruction set
-
-Introduction, Examples of Embedded Systems Lecture
-
-Embedded system are a ubiquitous component of everyday life. 
-
-An embedded system is a system that performs a specific task and has a computer embedded or hidden inside. A system is comprised of components and interfaces connected together for a common purpose. 
-
 
 

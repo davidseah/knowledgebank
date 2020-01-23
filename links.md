@@ -52,6 +52,7 @@
 * [Allen Chou](http://www.allenchou.net/blog/)
 * [Letterstoanewdeveloper](https://letterstoanewdeveloper.com/)
 * [Maierfelix](http://maierfelix.github.io/)
+* [Selfshadow](https://blog.selfshadow.com/)
 
 ## Programming
 
