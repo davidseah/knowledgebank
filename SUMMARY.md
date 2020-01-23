@@ -59,6 +59,7 @@
 
 ## How To
 
+* [How to be a PO](how-to/how-to-be-a-po.md)
 * [How to read big difficult books](how-to/how-to-read-big-difficult-books.md)
 * [How to read a paper](how-to/how-to-read-a-paper.md)
 * [How to write](how-to/how-to-write.md)
