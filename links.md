@@ -23,10 +23,10 @@
 
 * [Steph Smith](https://blog.stephsmith.io/) - Remote work, continuous growth, and technology.
 * [Mark Manson](https://markmanson.net/archive)
-* [Darius Foroux](https://dariusforoux.com/blog/?utm_source=pocket)
+* [Darius Foroux](https://dariusforoux.com/articles/)
 * [Code Without Rules](https://codewithoutrules.com/)
 * [Farnam Street](https://fs.blog/blog/)
-* [Minimalist Coder](http://theminimalistcoder.com/)
+* [Minimalist Coder](http://theminimalistcoder.com/articles)
 * [Devine Lu Linvega](https://wiki.xxiivv.com/#devine+lu+linvega)
 * [Common Clog](https://commoncog.com/blog/)
 * [Dave Asprey](https://blog.daveasprey.com/category/article/)
@@ -38,7 +38,7 @@
 * [Bennettnotes](https://www.bennettnotes.com/)
 * [Manojsurya](https://manojsurya.com/)
 * [Mtlynch](https://mtlynch.io/)
-* [Scotthyoung](https://www.scotthyoung.com/blog/)
+* [Scotthyoung](https://www.scotthyoung.com/blog/articles/)
 
 ## Tech
 
