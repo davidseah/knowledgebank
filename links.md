@@ -39,6 +39,7 @@
 * [Manojsurya](https://manojsurya.com/)
 * [Mtlynch](https://mtlynch.io/)
 * [Scotthyoung](https://www.scotthyoung.com/blog/articles/)
+* [Software Artist](https://www.software-artist.com/)
 
 ## Tech
 
