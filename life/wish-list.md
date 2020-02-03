@@ -8,7 +8,7 @@
 
 ## PULSEBOOST HD WINTER SHOES
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 
 
