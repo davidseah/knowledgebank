@@ -55,9 +55,10 @@
 * [Maierfelix](http://maierfelix.github.io/)
 * [Selfshadow](https://blog.selfshadow.com/)
 
-## Programming
+## Learn
 
 * [Bogotobogo](https://www.bogotobogo.com/index.php)
+* [Learnxinyminutes](https://learnxinyminutes.com/)
 
 ## Design/Art
 
