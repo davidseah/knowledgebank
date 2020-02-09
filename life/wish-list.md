@@ -6,7 +6,7 @@
 
 
 
-## PULSEBOOST HD WINTER SHOES
+## PULSEBOOST HD WINTER SHOES \(Bought\)
 
 ![](../.gitbook/assets/image%20%2814%29.png)
 
