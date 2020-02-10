@@ -14,7 +14,7 @@ Projects and things that I want to learn.Be specific and detailed. The idea is t
 * [ ] Write 3 full articles and publish [📚 ](https://emojipedia.org/books/)
 * [ ] Read 24 books [📚 ](https://emojipedia.org/books/)
 * [ ] Exercise for 182 days 🏋️
-* [ ] Read real time rendering [📚 ](https://emojipedia.org/books/)
+* [ ] Read Real time rendering [📚 ](https://emojipedia.org/books/)
 
  
 
