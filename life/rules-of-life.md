@@ -54,7 +54,11 @@ Simple rules to follow but make huge impact
 
 ## Spend time to truly understanding something
 
-Knowing something in a deep way brings satisfaction. To understand something deep also means you can explain simply to another person which brings up your joy as a engineer. I
+Knowing something in a deep way brings satisfaction. To understand something deep also means you can explain simply to another person which brings up your joy as a engineer. 
+
+## Keep Calm and focus on the current task 
+
+When we are trying to solve a problem, it will be better to just keep calm and just focus on the current question. Learn to focus and not panic when in a scenario like a coding interview. Practice to think calmly in such situation. 
 
 
 
