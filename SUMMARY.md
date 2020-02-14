@@ -32,6 +32,7 @@
   * [OpenGL](programming/computer-graphics/opengl.md)
 * [Web](programming/web/README.md)
   * [Node.JS](programming/web/node.js.md)
+* [Embedded Software Engineering](programming/embedded-software-engineering.md)
 
 ## Side Projects
 
