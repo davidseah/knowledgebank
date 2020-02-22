@@ -13,6 +13,7 @@
 * [Dezeen](https://www.dezeen.com/)
 * [Spoonfulofhomedesign](https://spoonfulofhomedesign.com/)
 * [Deskhunt](https://deskhunt.com/)
+* [leibal](https://leibal.com/)
 
 ## Finance
 
