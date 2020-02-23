@@ -11,7 +11,10 @@
 5. watch those adverbs Use them to change the meaning of the verb.
 6. Take it easy on the -ings Prefer the simple present or past.
 7. Fear not the long sentence Take the reader on a journey of language and meaning.
-8. 
+8. Establish a pattern, then give it a twist Build parallel constructions, but cut across the grain.
+9. Let punctuation control pace and space Learn the rules, but realize you have more options than you think.
+10. Cut big, then small Prune the big limbs, then shake out the dead leaves.
+
 ### Special Effects
 
 ### Blueprint
