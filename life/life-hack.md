@@ -6,7 +6,7 @@ What do I want in life? Why do I want it? How do I get it? I think these are imp
 
 ## Money 
 
-I am earning a decent amount of money as a software engineer. I am not crazy rich and cannot send on unnecessary luxury goods or go for holiday every other month. But I can pretty much do whatever I want. So I am not going to focus too much on my time on earning money. I will still be prudent and try to spend as little as possible. Only buying something when I really want or need it. I want to clear my student loan and mortgage as soon as possible. I also want to have an amount of money saved so that I can start looking into investing. 
+I am earning a decent amount of money as a software engineer. I am not crazy rich and cannot spend on unnecessary luxury goods or go for holiday every other month. Other than that I can pretty much do whatever I want. So I am not going to focus too much on my time on earning money. I will still be prudent and try to spend as little as possible. Only buying something when I really want or need it. I want to clear my student loan and mortgage as soon as possible. I also want to have an amount of money saved so that I can start looking into investing. 
 
 ## Sleep
 

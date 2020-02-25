@@ -10,4 +10,5 @@
 * [Game Engine Architecture](%20http://nikoladimitroff.github.io/Game-Engine-Architecture/)
 * [What Every Programmer should know about Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 * [An overview of Direct Memory Access](https://geidav.wordpress.com/2014/04/27/an-overview-of-direct-memory-access/)
+* [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 
