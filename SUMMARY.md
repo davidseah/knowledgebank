@@ -10,6 +10,10 @@
   * [Learn](life/learn-1.md)
   * [Life Hack](life/life-hack.md)
 * [Links](links.md)
+* [Tools](tools/README.md)
+  * [Compiler](tools/compiler.md)
+  * [Visual Studio Code](tools/visual-studio-code.md)
+  * [GitExtension](tools/gitextension.md)
 * [Reading List](reading-list.md)
 * [Trello](trello.md)
 * [Github](github.md)
@@ -43,10 +47,6 @@
   * [SFML Game Development Notes](side-projects/game-xyz/sfml-game-development-notes.md)
 * [SCRUM](scrum.md)
 * [Inspiration](inspiration.md)
-* [Tools](tools/README.md)
-  * [Compiler](tools/compiler.md)
-  * [Visual Studio Code](tools/visual-studio-code.md)
-  * [GitExtension](tools/gitextension.md)
 
 ## Learn
 

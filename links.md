@@ -85,7 +85,6 @@
 
 ## Others
 
-* [forestry](https://forestry.io/) - CMS for GIT blog
 * [Wait but why](https://waitbutwhy.com/)
 * [Increment](https://increment.com/)
 * [Paul Graham's Essays visualized](https://www.producthunt.com/posts/paul-graham-s-essays-visualized)
