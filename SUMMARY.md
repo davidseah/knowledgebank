@@ -14,8 +14,8 @@
 * [Trello](trello.md)
 * [Github](github.md)
 * [Looking Back](looking-back/README.md)
-  * [2019](looking-back/2019/README.md)
-    * [October 2019](looking-back/2019/october-2019.md)
+  * [2019](looking-back/2019.md)
+  * [2020](looking-back/2020.md)
 
 ## Programming
 

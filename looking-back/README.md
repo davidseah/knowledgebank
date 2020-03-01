@@ -8,5 +8,5 @@ description: >-
 
 ### 2019
 
-* [October](2019/october-2019.md) - Started my wiki
+* [October]() - Started my wiki
 

@@ -1,6 +1,6 @@
 # Introduction
 
-This wiki is a extended part of me. Some kind of personal assistance. I will be using it to sort out my thoughts, my knowledge. To do that effectively, I need some kind of rules to organize it in a way that make sense to my brain.This is not a one time thing, rather it will be iterative. I will change it whenever it does not make any sense or I find a better way to do it. 
+This wiki is an extended part of me. Some kind of personal assistance. I will be using it to sort out my thoughts, my knowledge. To do that effectively, I need some kind of rules to organize it in a way that make sense to my brain.This is not a one time thing, rather it will be iterative. I will change it whenever it does not make any sense or I find a better way to do it. 
 
 ## Rules
 

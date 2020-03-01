@@ -19,8 +19,6 @@ After working as a software engineer for 5 years, I learned that building a good
 * To build products that people actually use
 * To be financial independent such that I can work on anything I want
 
-## 
-
 ## Food for thought
 
 * What is right thing to work on now?
@@ -37,8 +35,6 @@ After working as a software engineer for 5 years, I learned that building a good
 
 * Writing
 * C++
-
-
 
 ## Links
 
