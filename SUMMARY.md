@@ -11,6 +11,7 @@
   * [Life Hack](life/life-hack.md)
 * [Links](links.md)
 * [Tools](tools/README.md)
+  * [VIM](tools/vim.md)
   * [Compiler](tools/compiler.md)
   * [Visual Studio Code](tools/visual-studio-code.md)
   * [GitExtension](tools/gitextension.md)
@@ -51,6 +52,7 @@
 ## Learn
 
 * [OpenGL](learn/opengl.md)
+* [Pixel Art](learn/pixel-art.md)
 * [Algorithm](learn/algorithm.md)
 * [C++](learn/c++/README.md)
   * [Initializer Lists](learn/c++/initializer-lists.md)
