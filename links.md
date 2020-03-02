@@ -3,6 +3,7 @@
 * [The Documentation Compendium](https://github.com/kylelobo/The-Documentation-Compendium/blob/master/README.md) 
 * [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
 * [You and your research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+* [Google tech writing](https://developers.google.com/tech-writing)
 
 
 

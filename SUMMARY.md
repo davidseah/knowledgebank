@@ -67,7 +67,8 @@
 * [How to change my life](how-to/how-to-change-my-life.md)
 * [How to learn Maths](how-to/how-to-learn-maths.md)
 * [How to learn graphics programming](how-to/how-to-learn-graphics-programming.md)
-* [How to set up C++ visual studio project](how-to-set-up-c++-visual-studio-project.md)
+* [How to draw pixel art](how-to/how-to-draw-pixel-art.md)
+* [How to set up C++ visual studio project](how-to/how-to-set-up-c++-visual-studio-project.md)
 
 ## Documentation
 
