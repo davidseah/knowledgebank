@@ -107,4 +107,5 @@
 ## Good Web Articles 
 
 * [How to brainstorm great business ideas](https://www.indiehackers.com/post/how-to-brainstorm-great-business-ideas-ab51c3d51c)
+* [How to build a learning-machine](https://superorganizers.substack.com/p/how-to-build-a-learning-machine###)
 
