@@ -57,6 +57,7 @@
 * [Letterstoanewdeveloper](https://letterstoanewdeveloper.com/)
 * [Maierfelix](http://maierfelix.github.io/)
 * [Selfshadow](https://blog.selfshadow.com/)
+* [Internalpointers](https://www.internalpointers.com/)
 
 ## Learn
 
@@ -100,4 +101,10 @@
 ## Similar Wiki Guide
 
 * [Nikitavoloboev](https://wiki.nikitavoloboev.xyz/)
+
+
+
+## Good Web Articles 
+
+* [How to brainstorm great business ideas](https://www.indiehackers.com/post/how-to-brainstorm-great-business-ideas-ab51c3d51c)
 

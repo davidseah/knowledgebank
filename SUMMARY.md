@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Life](life/README.md)
+  * [Currently working on](life/currently-working-on.md)
   * [Productivity Manifesto](life/rules-of-life.md)
   * [Most valuable things](life/most-valuable-things.md)
   * [Goals](life/what-do-i-want-to-accomplish.md)
