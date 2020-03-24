@@ -34,10 +34,8 @@
     * [Rule of Thumb](programming/programming_language/c++/rule-of-thumb.md)
     * [Unique Pointer](programming/programming_language/c++/unique-pointer.md)
     * [Overview](programming/programming_language/c++/stl.md)
-* [Computer Graphics](programming/computer-graphics/README.md)
-  * [OpenGL](programming/computer-graphics/opengl.md)
-* [Web](programming/web/README.md)
-  * [Node.JS](programming/web/node.js.md)
+* [Computer Graphics](programming/computer-graphics.md)
+* [Web](programming/web.md)
 * [Embedded Software Engineering](programming/embedded-software-engineering.md)
 
 ## Side Projects

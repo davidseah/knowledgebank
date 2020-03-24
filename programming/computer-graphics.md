@@ -9,6 +9,8 @@
 * [Physically based rendering and you can too](https://marmoset.co/posts/physically-based-rendering-and-you-can-too/)
 * [Webgl Fundamentals](https://webglfundamentals.org/webgl/lessons/webgl-fundamentals.html#toc)
 * [Webgl2 Fundamentals](https://webgl2fundamentals.org/)
+* [Webgl state diagram](https://webglfundamentals.org/webgl/lessons/resources/webgl-state-diagram.html) - Cool GUI to understand shader properties
+* [Songho OpenGL](http://www.songho.ca/opengl/index.html)
 
 ## Font Rendering
 
@@ -25,4 +27,11 @@
 
 * [DTL OTMaster Light](https://download.cnet.com/DTL-OTMaster-Light/3000-2316_4-10964666.html)
 * [Font Tools\(TTX\)](https://github.com/fonttools/fonttools)
+
+## RayTracing
+
+* [Ray Tracing Essentials Part 1 Basics of ray tracing](https://news.developer.nvidia.com/ray-tracing-essentials-part-1-basics-of-ray-tracing/)
+* [RayTracing in One weekend](https://raytracing.github.io/)
+
+
 

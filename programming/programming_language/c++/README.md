@@ -1,23 +1,5 @@
 # C++
 
-**List of cpp concept**
-
-* Class
-* Operator overload
-* Template / Class template
-* Inheritance
-* Memory Allocation
-* Type of STL containers
-* STL alogrithm
-* different ways of initialization
-* Input/output
-
-## C++11
-
-### New Features in C++11
-
-1. auto
-
 ## Links
 
 #### Reference
@@ -59,6 +41,26 @@
 #### Quiz
 
 * [cpp quiz](http://cppquiz.org/)
+
+**List of cpp concept**
+
+* Class
+* Operator overload
+* Template / Class template
+* Inheritance
+* Memory Allocation
+* Type of STL containers
+* STL alogrithm
+* different ways of initialization
+* Input/output
+
+## C++11
+
+### New Features in C++11
+
+1. auto
+
+## 
 
 
 
