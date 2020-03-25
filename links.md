@@ -21,6 +21,8 @@
 * [Tree of Prosperity ](http://treeofprosperity.blogspot.com/)
 * [Early Retirement](https://earlyretirementsg.weebly.com/)
 * [The simple sum](https://thesimplesum.com/)
+* [Thewokesalaryman](https://thewokesalaryman.com/)
+* [Seedly](https://blog.seedly.sg/)
 
 ## Life
 
@@ -43,6 +45,7 @@
 * [Mtlynch](https://mtlynch.io/)
 * [Scotthyoung](https://www.scotthyoung.com/blog/articles/)
 * [Software Artist](https://www.software-artist.com/)
+* [swyx](https://www.swyx.io/) - Singaporean Developer based in US
 
 ## Tech
 
