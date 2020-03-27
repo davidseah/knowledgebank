@@ -88,6 +88,10 @@
 
 
 
+## Guitar
+
+* [http://chords-haven.blogspot.com/](http://chords-haven.blogspot.com/)
+
 ## Others
 
 * [Wait but why](https://waitbutwhy.com/)
