@@ -98,6 +98,7 @@
 * [Codinghorror](https://blog.codinghorror.com/)
 * [lesswrong](https://www.lesswrong.com/)
 * [Indiehackers](https://www.indiehackers.com/)
+* [Mapfilterfold](https://mapfilterfold.com/) - Meta recommendations from Hacker News
 
 
 
