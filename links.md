@@ -46,6 +46,7 @@
 * [Scotthyoung](https://www.scotthyoung.com/blog/articles/)
 * [Software Artist](https://www.software-artist.com/)
 * [swyx](https://www.swyx.io/) - Singaporean Developer based in US
+* [Amymhaddad](https://amymhaddad.com/)
 
 ## Tech
 
