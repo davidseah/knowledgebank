@@ -47,6 +47,7 @@
 * [Software Artist](https://www.software-artist.com/)
 * [swyx](https://www.swyx.io/) - Singaporean Developer based in US
 * [Amymhaddad](https://amymhaddad.com/)
+* [Paulgraham](http://paulgraham.com/kids.html)
 
 ## Tech
 
