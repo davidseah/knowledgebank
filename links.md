@@ -97,7 +97,6 @@
 ## Others
 
 * [Wait but why](https://waitbutwhy.com/)
-* [Increment](https://increment.com/)
 * [Paul Graham's Essays visualized](https://www.producthunt.com/posts/paul-graham-s-essays-visualized)
 * [Brain Pickings](https://www.brainpickings.org/)
 * [vanschneider](https://www.vanschneider.com/blog)
@@ -122,6 +121,7 @@
 ## Website
 
 * [Quantamagazine](https://www.quantamagazine.org/)
+* [Increment](https://increment.com/)
 
 ## Note Taking
 
