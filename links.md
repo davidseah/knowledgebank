@@ -99,7 +99,6 @@
 * [Wait but why](https://waitbutwhy.com/)
 * [Paul Graham's Essays visualized](https://www.producthunt.com/posts/paul-graham-s-essays-visualized)
 * [Brain Pickings](https://www.brainpickings.org/)
-* [vanschneider](https://www.vanschneider.com/blog)
 * [Codinghorror](https://blog.codinghorror.com/)
 * [lesswrong](https://www.lesswrong.com/)
 * [Indiehackers](https://www.indiehackers.com/)
@@ -122,6 +121,7 @@
 
 * [Quantamagazine](https://www.quantamagazine.org/)
 * [Increment](https://increment.com/)
+* [vanschneider](https://www.vanschneider.com/blog)
 
 ## Note Taking
 
