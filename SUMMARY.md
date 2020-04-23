@@ -17,6 +17,7 @@
   * [Visual Studio Code](tools/visual-studio-code.md)
   * [GitExtension](tools/gitextension.md)
 * [Reading List](reading-list.md)
+* [Productivity Hack](productivity-hack.md)
 * [Trello](trello.md)
 * [Github](github.md)
 * [Looking Back](looking-back/README.md)
