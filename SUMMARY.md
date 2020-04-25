@@ -39,6 +39,7 @@
 * [Computer Graphics](programming/computer-graphics.md)
 * [Web](programming/web.md)
 * [Embedded Software Engineering](programming/embedded-software-engineering.md)
+* [Game Developement](programming/game-developement.md)
 
 ## Side Projects
 
