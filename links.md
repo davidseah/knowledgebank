@@ -128,3 +128,15 @@
 
 * [https://slite.com/](https://slite.com/)
 
+
+
+## Online Magazine
+
+* [https://www.dapperesq.com/](https://www.dapperesq.com/)
+* [http://www.destructed.info/\#](http://www.destructed.info/#)
+* [https://www.txtnein.com/en/](https://www.txtnein.com/en/)
+
+## Art
+
+* [https://www.behance.net/](https://www.behance.net/)
+* 
