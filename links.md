@@ -110,6 +110,9 @@
 ## Similar Wiki Guide
 
 * [Nikitavoloboev](https://wiki.nikitavoloboev.xyz/)
+* [https://braindump.jethro.dev/zettels/](https://braindump.jethro.dev/zettels/)
+* [https://brandur.org/fragments](https://brandur.org/fragments)
+* [https://100r.co/site/home.html](https://100r.co/site/home.html)
 
 
 
