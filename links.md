@@ -126,6 +126,7 @@
 * [Quantamagazine](https://www.quantamagazine.org/)
 * [Increment](https://increment.com/)
 * [vanschneider](https://www.vanschneider.com/blog)
+* [lunadio](https://www.lunadio.com/)
 
 ## Note Taking
 
@@ -142,4 +143,6 @@
 ## Art
 
 * [https://www.behance.net/](https://www.behance.net/)
-* 
+
+
+
