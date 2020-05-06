@@ -128,6 +128,7 @@
 * [vanschneider](https://www.vanschneider.com/blog)
 * [lunadio](https://www.lunadio.com/)
 * [remembersingapore](https://remembersingapore.org/)
+* [Stratechery](https://stratechery.com/)
 
 ## Note Taking
 
