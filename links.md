@@ -23,6 +23,7 @@
 * [The simple sum](https://thesimplesum.com/)
 * [Thewokesalaryman](https://thewokesalaryman.com/)
 * [Seedly](https://blog.seedly.sg/)
+* [theboywhoprocrastinates](https://theboywhoprocrastinates.blogspot.com/)
 
 ## Life
 
