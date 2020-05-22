@@ -15,6 +15,7 @@
 * [Spoonfulofhomedesign](https://spoonfulofhomedesign.com/)
 * [Deskhunt](https://deskhunt.com/)
 * [leibal](https://leibal.com/)
+* [vanschneider](https://vanschneider.com/blog)
 
 ## Finance
 
@@ -132,6 +133,7 @@
 * [lunadio](https://www.lunadio.com/)
 * [remembersingapore](https://remembersingapore.org/)
 * [Stratechery](https://stratechery.com/)
+* [Matthewball.vc](https://www.matthewball.vc/)
 
 ## Note Taking
 
