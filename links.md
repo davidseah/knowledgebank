@@ -25,6 +25,10 @@
 * [Thewokesalaryman](https://thewokesalaryman.com/)
 * [Seedly](https://blog.seedly.sg/)
 * [theboywhoprocrastinates](https://theboywhoprocrastinates.blogspot.com/)
+* [my15hourworkweek](http://www.my15hourworkweek.com/)
+* [investmentmoats](https://investmentmoats.com/)
+* [thefinance.sg](http://thefinance.sg/)
+* [sginvestbloggers](http://www.sginvestbloggers.com/)
 
 ## Life
 
@@ -151,5 +155,9 @@
 
 * [https://www.behance.net/](https://www.behance.net/)
 
+## Game Development
+
+* [https://itch.io/](https://itch.io/)
+* 
 
 
