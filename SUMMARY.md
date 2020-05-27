@@ -27,6 +27,7 @@
 
 ## Programming
 
+* [Programming in general](programming/programming-in-general.md)
 * [Computer Science](programming/computer-science/README.md)
   * [Algorithm](programming/computer-science/algorithm.md)
   * [Design Pattern](programming/computer-science/design-pattern.md)
