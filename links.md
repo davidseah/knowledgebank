@@ -51,10 +51,11 @@
 * [Mtlynch](https://mtlynch.io/)
 * [Scotthyoung](https://www.scotthyoung.com/blog/articles/)
 * [Software Artist](https://www.software-artist.com/)
-* [swyx](https://www.swyx.io/) - Singaporean Developer based in US
+* [Swyx](https://www.swyx.io/) - Singaporean Developer based in US
 * [Amymhaddad](https://amymhaddad.com/)
 * [Paulgraham](http://paulgraham.com/kids.html)
-* [ryn.works](https://www.ryn.works/blog)
+* [Ryn.works](https://www.ryn.works/blog)
+* [Madisontaskett](https://www.madisontaskett.com/)
 
 ## Tech
 
