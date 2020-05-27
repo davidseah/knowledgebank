@@ -71,6 +71,7 @@
 * [Maierfelix](http://maierfelix.github.io/)
 * [Selfshadow](https://blog.selfshadow.com/)
 * [Internalpointers](https://www.internalpointers.com/)
+* [Codinghorror](https://blog.codinghorror.com/)
 
 ## Learn
 
