@@ -71,7 +71,8 @@
 * [Maierfelix](http://maierfelix.github.io/)
 * [Selfshadow](https://blog.selfshadow.com/)
 * [Internalpointers](https://www.internalpointers.com/)
-* [Codinghorror](https://blog.codinghorror.com/)
+
+
 
 ## Learn
 
@@ -156,6 +157,7 @@
 ## Art
 
 * [https://www.behance.net/](https://www.behance.net/)
+* [https://www.ceros.com/originals/](https://www.ceros.com/originals/)
 
 ## Game Development
 
