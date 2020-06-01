@@ -56,6 +56,7 @@
 * [Paulgraham](http://paulgraham.com/kids.html)
 * [Ryn.works](https://www.ryn.works/blog)
 * [Madisontaskett](https://www.madisontaskett.com/)
+* [Samaltman](https://blog.samaltman.com/)
 
 ## Tech
 
