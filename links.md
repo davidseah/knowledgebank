@@ -101,7 +101,8 @@
 
 ## Blog
 
-[secondbreakfast](https://secondbreakfast.co/page/1)
+* [secondbreakfast](https://secondbreakfast.co/page/1)
+* [https://okayr.wordpress.com/](https://okayr.wordpress.com/)
 
 ## Guitar
 
