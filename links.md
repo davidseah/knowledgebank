@@ -29,6 +29,7 @@
 * [investmentmoats](https://investmentmoats.com/)
 * [thefinance.sg](http://thefinance.sg/)
 * [sginvestbloggers](http://www.sginvestbloggers.com/)
+* [Missfitfi](https://missfitfi.com/)
 
 ## Life
 
