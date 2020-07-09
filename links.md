@@ -29,7 +29,7 @@
 * [investmentmoats](https://investmentmoats.com/)
 * [thefinance.sg](http://thefinance.sg/)
 * [sginvestbloggers](http://www.sginvestbloggers.com/)
-* [Missfitfi](https://missfitfi.com/)
+* [Dollarsandsense](https://dollarsandsense.sg/)
 
 ## Life
 
@@ -104,7 +104,7 @@
 ## Blog
 
 * [secondbreakfast](https://secondbreakfast.co/page/1)
-* [https://okayr.wordpress.com/](https://okayr.wordpress.com/)
+* [okayr](https://okayr.wordpress.com/)
 
 ## Guitar
 
