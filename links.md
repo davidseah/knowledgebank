@@ -58,6 +58,8 @@
 * [Ryn.works](https://www.ryn.works/blog)
 * [Madisontaskett](https://www.madisontaskett.com/)
 * [Samaltman](https://blog.samaltman.com/)
+* [Salman](https://salman.io/)
+* [Nabeelqu](https://nabeelqu.co/homepage)
 
 ## Tech
 
