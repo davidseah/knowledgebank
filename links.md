@@ -52,7 +52,7 @@
 * [Mtlynch](https://mtlynch.io/)
 * [Scotthyoung](https://www.scotthyoung.com/blog/articles/)
 * [Software Artist](https://www.software-artist.com/)
-* [Swyx](https://www.swyx.io/) - Singaporean Developer based in US
+* [Swyx](https://www.swyx.io/writing) - Singaporean Developer based in US
 * [Amymhaddad](https://amymhaddad.com/)
 * [Paulgraham](http://paulgraham.com/kids.html)
 * [Ryn.works](https://www.ryn.works/blog)
