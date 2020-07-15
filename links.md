@@ -30,6 +30,7 @@
 * [thefinance.sg](http://thefinance.sg/)
 * [sginvestbloggers](http://www.sginvestbloggers.com/)
 * [Dollarsandsense](https://dollarsandsense.sg/)
+* [Justasingaporeanson](https://justasingaporeanson.blogspot.com/)
 
 ## Life
 
