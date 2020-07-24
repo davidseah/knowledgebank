@@ -132,7 +132,9 @@
 * [https://brandur.org/fragments](https://brandur.org/fragments)
 * [https://100r.co/site/home.html](https://100r.co/site/home.html)
 
+## Programming
 
+* [https://www.ntu.edu.sg/home/ehchua/programming/index.html](https://www.ntu.edu.sg/home/ehchua/programming/index.html)
 
 ## Good Web Articles 
 
