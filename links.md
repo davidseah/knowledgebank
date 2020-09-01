@@ -60,6 +60,7 @@
 * [Samaltman](https://blog.samaltman.com/)
 * [Salman](https://salman.io/)
 * [Nabeelqu](https://nabeelqu.co/homepage)
+* [Karllhughes](https://www.karllhughes.com/)
 
 ## Tech
 
@@ -149,6 +150,7 @@
 * [remembersingapore](https://remembersingapore.org/)
 * [Stratechery](https://stratechery.com/)
 * [Matthewball.vc](https://www.matthewball.vc/)
+* [Longreads](https://longreads.com/)
 
 ## Note Taking
 
