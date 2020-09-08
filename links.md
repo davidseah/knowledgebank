@@ -76,6 +76,9 @@
 * [Maierfelix](http://maierfelix.github.io/)
 * [Selfshadow](https://blog.selfshadow.com/)
 * [Internalpointers](https://www.internalpointers.com/)
+* [Simoncoenen](https://simoncoenen.com/)
+* [Neilkakkar](https://neilkakkar.com/)
+* [Staysaasy](https://staysaasy.com/)
 
 
 
