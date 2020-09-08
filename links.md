@@ -154,6 +154,7 @@
 * [Stratechery](https://stratechery.com/)
 * [Matthewball.vc](https://www.matthewball.vc/)
 * [Longreads](https://longreads.com/)
+* [Palladiummag](https://palladiummag.com/)
 
 ## Note Taking
 
