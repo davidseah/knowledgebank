@@ -79,6 +79,7 @@
 * [Simoncoenen](https://simoncoenen.com/)
 * [Neilkakkar](https://neilkakkar.com/)
 * [Staysaasy](https://staysaasy.com/)
+* [Thevaluable.dev](https://thevaluable.dev/)
 
 
 
