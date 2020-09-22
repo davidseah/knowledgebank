@@ -61,6 +61,7 @@
 * [Salman](https://salman.io/)
 * [Nabeelqu](https://nabeelqu.co/homepage)
 * [Karllhughes](https://www.karllhughes.com/)
+* [Eriktorenberg](https://eriktorenberg.substack.com/)
 
 ## Tech
 
