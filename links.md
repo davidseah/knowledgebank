@@ -32,6 +32,7 @@
 * [Justasingaporeanson](https://justasingaporeanson.blogspot.com/)
 * [Stackedhomes](https://stackedhomes.com/)
 * [Ryangoh](https://ryangoh.wordpress.com/)
+* [thegoodinvestors.sg](https://www.thegoodinvestors.sg/)
 
 ## Life
 
