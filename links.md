@@ -33,7 +33,8 @@
 * [Stackedhomes](https://stackedhomes.com/)
 * [Ryangoh](https://ryangoh.wordpress.com/)
 * [thegoodinvestors.sg](https://www.thegoodinvestors.sg/)
-
+* [missniao](https://missniao.wordpress.com/)
+* 
 ## Life
 
 * [Steph Smith](https://blog.stephsmith.io/) - Remote work, continuous growth, and technology.
