@@ -34,7 +34,8 @@
 * [Ryangoh](https://ryangoh.wordpress.com/)
 * [thegoodinvestors.sg](https://www.thegoodinvestors.sg/)
 * [missniao](https://missniao.wordpress.com/)
-* 
+* [sgbudgetbabe](https://www.sgbudgetbabe.com/)
+
 ## Life
 
 * [Steph Smith](https://blog.stephsmith.io/) - Remote work, continuous growth, and technology.
