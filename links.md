@@ -35,6 +35,8 @@
 * [thegoodinvestors.sg](https://www.thegoodinvestors.sg/)
 * [missniao](https://missniao.wordpress.com/)
 * [sgbudgetbabe](https://www.sgbudgetbabe.com/)
+* [makecentsnow](https://makecentsnow.wordpress.com/)
+* [humjiinvestor](https://humjiinvestor.com/blog/)
 
 ## Life
 
