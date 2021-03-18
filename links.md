@@ -37,6 +37,9 @@
 * [sgbudgetbabe](https://www.sgbudgetbabe.com/)
 * [makecentsnow](https://makecentsnow.wordpress.com/)
 * [humjiinvestor](https://humjiinvestor.com/blog/)
+* [sethisfy](https://sethisfy.com/)
+* [moneydigest.sg](https://www.moneydigest.sg/)
+* [yourwealthdojo](https://yourwealthdojo.com/blog/page/2/)
 
 ## Life
 
