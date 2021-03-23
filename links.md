@@ -40,6 +40,9 @@
 * [sethisfy](https://sethisfy.com/)
 * [moneydigest.sg](https://www.moneydigest.sg/)
 * [yourwealthdojo](https://yourwealthdojo.com/blog/page/2/)
+* [iaminfp](https://iaminfp.wordpress.com/)
+* [heartlandboy](https://heartlandboy.com/)
+* [http://financesmiths.com/](http://financesmiths.com/)
 
 ## Life
 
