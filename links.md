@@ -26,7 +26,6 @@
 * [theboywhoprocrastinates](https://theboywhoprocrastinates.blogspot.com/)
 * [my15hourworkweek](http://www.my15hourworkweek.com/)
 * [investmentmoats](https://investmentmoats.com/)
-* [thefinance.sg](http://thefinance.sg/)
 * [sginvestbloggers](http://www.sginvestbloggers.com/)
 * [Dollarsandsense](https://dollarsandsense.sg/)
 * [Justasingaporeanson](https://justasingaporeanson.blogspot.com/)
@@ -38,11 +37,11 @@
 * [makecentsnow](https://makecentsnow.wordpress.com/)
 * [humjiinvestor](https://humjiinvestor.com/blog/)
 * [sethisfy](https://sethisfy.com/)
-* [moneydigest.sg](https://www.moneydigest.sg/)
 * [yourwealthdojo](https://yourwealthdojo.com/blog/page/2/)
 * [iaminfp](https://iaminfp.wordpress.com/)
 * [heartlandboy](https://heartlandboy.com/)
 * [http://financesmiths.com/](http://financesmiths.com/)
+* [https://singvestor.com/](https://singvestor.com/)
 
 ## Life
 
