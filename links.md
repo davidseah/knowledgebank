@@ -93,6 +93,8 @@
 * [Neilkakkar](https://neilkakkar.com/)
 * [Staysaasy](https://staysaasy.com/)
 * [Thevaluable.dev](https://thevaluable.dev/)
+* [jeffreyleezq](https://www.jeffreyleezq.com/my-blog)
+* [https://mrmrsbudget.com/](https://mrmrsbudget.com/)
 
 
 
