@@ -16,6 +16,8 @@
 * [leibal](https://leibal.com/)
 * [vanschneider](https://vanschneider.com/blog)
 
+
+
 ## Finance
 
 * [Tree of Prosperity ](http://treeofprosperity.blogspot.com/)
@@ -42,6 +44,12 @@
 * [heartlandboy](https://heartlandboy.com/)
 * [http://financesmiths.com/](http://financesmiths.com/)
 * [https://singvestor.com/](https://singvestor.com/)
+
+## Blog
+
+* [secondbreakfast](https://secondbreakfast.co/page/1)
+* [okayr](https://okayr.wordpress.com/)
+* [https://sudhirtv.com/](https://sudhirtv.com/)
 
 ## Life
 
@@ -106,7 +114,7 @@
 ## Design/Art
 
 * [Paulstamatiou](https://paulstamatiou.com/)
-
+* 
 ## Graphics
 
 * [Faster than life](https://www.fasterthan.life/blog)
@@ -122,11 +130,6 @@
 * [How to get a job at Google](https://www.quora.com/How-can-I-get-a-job-at-Facebook-or-Google-in-6-months-I-need-a-concise-work-plan-to-build-a-good-enough-skill-set-Should-I-join-some-other-start-up-or-build-my-own-projects-start-up-Should-I-just-focus-on-practicing-data-structures-and-algorithms/answer/Jimmy-Saade?share=1&srid=TAJ1)
 * [How to get better at interviews](https://algodaily.com/lessons/how-to-get-better-at-coding-interviews)
 * [Coding Interview](https://github.com/jwasham/coding-interview-university)
-
-## Blog
-
-* [secondbreakfast](https://secondbreakfast.co/page/1)
-* [okayr](https://okayr.wordpress.com/)
 
 ## Guitar
 
