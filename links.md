@@ -44,12 +44,14 @@
 * [heartlandboy](https://heartlandboy.com/)
 * [http://financesmiths.com/](http://financesmiths.com/)
 * [https://singvestor.com/](https://singvestor.com/)
+* [https://mrmrsbudget.com/](https://mrmrsbudget.com/)
 
 ## Blog
 
 * [secondbreakfast](https://secondbreakfast.co/page/1)
 * [okayr](https://okayr.wordpress.com/)
 * [https://sudhirtv.com/](https://sudhirtv.com/)
+* [https://unstructed.tech/](https://unstructed.tech/)
 
 ## Life
 
@@ -102,7 +104,6 @@
 * [Staysaasy](https://staysaasy.com/)
 * [Thevaluable.dev](https://thevaluable.dev/)
 * [jeffreyleezq](https://www.jeffreyleezq.com/my-blog)
-* [https://mrmrsbudget.com/](https://mrmrsbudget.com/)
 
 
 
