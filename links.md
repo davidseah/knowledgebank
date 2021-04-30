@@ -45,6 +45,7 @@
 * [http://financesmiths.com/](http://financesmiths.com/)
 * [https://singvestor.com/](https://singvestor.com/)
 * [https://mrmrsbudget.com/](https://mrmrsbudget.com/)
+* [jeffreyleezq](https://www.jeffreyleezq.com/my-blog)
 
 ## Blog
 
@@ -103,7 +104,8 @@
 * [Neilkakkar](https://neilkakkar.com/)
 * [Staysaasy](https://staysaasy.com/)
 * [Thevaluable.dev](https://thevaluable.dev/)
-* [jeffreyleezq](https://www.jeffreyleezq.com/my-blog)
+
+
 
 
 
