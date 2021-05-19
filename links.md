@@ -46,6 +46,7 @@
 * [https://singvestor.com/](https://singvestor.com/)
 * [https://mrmrsbudget.com/](https://mrmrsbudget.com/)
 * [jeffreyleezq](https://www.jeffreyleezq.com/my-blog)
+* [https://carepital.com/](https://carepital.com/)
 
 ## Blog
 
@@ -206,8 +207,6 @@
 
 
 ## Coffee
-
-[https://www.thecoffeecompass.com/](https://www.thecoffeecompass.com/)
 
 * [https://www.thecoffeecompass.com/](https://www.thecoffeecompass.com/)
 * [http://www.coffeeteaimagazine.com/home-en/](http://www.coffeeteaimagazine.com/home-en/)
