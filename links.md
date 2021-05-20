@@ -47,6 +47,7 @@
 * [https://mrmrsbudget.com/](https://mrmrsbudget.com/)
 * [jeffreyleezq](https://www.jeffreyleezq.com/my-blog)
 * [https://carepital.com/](https://carepital.com/)
+* [https://lifejourney.blog/](https://lifejourney.blog/)
 
 ## Blog
 
@@ -118,7 +119,9 @@
 ## Design/Art
 
 * [Paulstamatiou](https://paulstamatiou.com/)
-* 
+
+
+
 ## Graphics
 
 * [Faster than life](https://www.fasterthan.life/blog)
