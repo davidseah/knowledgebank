@@ -15,6 +15,7 @@
 * [Deskhunt](https://deskhunt.com/)
 * [leibal](https://leibal.com/)
 * [vanschneider](https://vanschneider.com/blog)
+* [Stackedhomes](https://stackedhomes.com/)
 
 
 
@@ -31,14 +32,12 @@
 * [sginvestbloggers](http://www.sginvestbloggers.com/)
 * [Dollarsandsense](https://dollarsandsense.sg/)
 * [Justasingaporeanson](https://justasingaporeanson.blogspot.com/)
-* [Stackedhomes](https://stackedhomes.com/)
 * [Ryangoh](https://ryangoh.wordpress.com/)
 * [thegoodinvestors.sg](https://www.thegoodinvestors.sg/)
 * [missniao](https://missniao.wordpress.com/)
 * [sgbudgetbabe](https://www.sgbudgetbabe.com/)
 * [makecentsnow](https://makecentsnow.wordpress.com/)
 * [humjiinvestor](https://humjiinvestor.com/blog/)
-* [sethisfy](https://sethisfy.com/)
 * [yourwealthdojo](https://yourwealthdojo.com/blog/page/2/)
 * [iaminfp](https://iaminfp.wordpress.com/)
 * [heartlandboy](https://heartlandboy.com/)
@@ -48,6 +47,7 @@
 * [jeffreyleezq](https://www.jeffreyleezq.com/my-blog)
 * [https://carepital.com/](https://carepital.com/)
 * [https://lifejourney.blog/](https://lifejourney.blog/)
+* [https://www.turtleinvestor.net/](https://www.turtleinvestor.net/)
 
 ## Blog
 
