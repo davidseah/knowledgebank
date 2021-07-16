@@ -48,6 +48,7 @@
 * [https://carepital.com/](https://carepital.com/)
 * [https://lifejourney.blog/](https://lifejourney.blog/)
 * [https://www.turtleinvestor.net/](https://www.turtleinvestor.net/)
+* [https://retireby50.me/blog/](https://retireby50.me/blog/)
 
 ## Blog
 
