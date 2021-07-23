@@ -57,6 +57,7 @@
 * [https://sudhirtv.com/](https://sudhirtv.com/)
 * [https://unstructed.tech/](https://unstructed.tech/)
 * [https://lillianli.substack.com/](https://lillianli.substack.com/)
+* [https://psyche.co/](https://psyche.co/)
 
 ## Life
 
