@@ -49,6 +49,7 @@
 * [https://lifejourney.blog/](https://lifejourney.blog/)
 * [https://www.turtleinvestor.net/](https://www.turtleinvestor.net/)
 * [https://retireby50.me/blog/](https://retireby50.me/blog/)
+* [https://kelvestor.com/blog/](https://kelvestor.com/blog/)
 
 ## Blog
 
