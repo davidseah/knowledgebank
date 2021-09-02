@@ -185,6 +185,7 @@
 * [Matthewball.vc](https://www.matthewball.vc/)
 * [Longreads](https://longreads.com/)
 * [Palladiummag](https://palladiummag.com/)
+* [https://psyche.co/](https://psyche.co/)
 
 ## Note Taking
 
